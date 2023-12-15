@@ -1,4 +1,4 @@
-﻿age,walk_range,gender,height,weight,muscle_mass,body_fat,hip,thigh,nutri_train,nutri_compe,training,
+﻿age,walk_range,gender,height,weight,muscle_mass,body_fat,hip,thigh,nutri_train,nutri_compe,training
 25,20,Nam,170,65,29.5,5.9,85,55,"Thứ  Bữa Sáng                                            Bữa Trưa                                Bữa Tối                                                  Bữa Phụ                       Tổng Kcal
 Hai  Bánh mì nguyên hạt, trứng gà, hoa quả          Gà nướng, 2 bát cơm nâu, rau xanh     Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ              Hạt hạt và quả khô                 3300
 Ba   Sữa hạ chất béo, bánh mì nguyên hạt, chuối     Salad thịt gà, 2 bát cơm quinoa       Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh          Yaourt, quả dứa                    3400
@@ -73,7 +73,7 @@ Nghỉ ngơi
 
 Chủ nhật:
 Nghỉ ngơi
-",
+"
 22,20,Nữ,160,55,28,7.1,80,50,"
 Ngày                Bữa sáng                                             Bữa trưa                                   Bữa tối                                     Bữa phụ                           Tổng kcal
 Thứ hai    2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối    1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sinh tố bơ + 1 nắm hạt hạnh nhân    2,700 kcal
@@ -132,7 +132,7 @@ Chạy interval: Chạy nhanh 400m, sau đó đi bộ chậm 200m x 10 lần
 
 Chủ nhật
 Nghỉ ngơi
-",
+"
 27,50,Nam,175,70,30,7,90,60,"Ngày               Bữa sáng                                            Bữa trưa                                      Bữa tối                               Bữa phụ                                Tổng kcal
 Thứ hai    2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối    1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sinh tố bơ + 1 nắm hạt chia           2,700 kcal
 Thứ ba     1 chén cháo yến mạch + 1 quả chuối                    1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 quả cam + 1 nắm đậu phộng                3,000 kcal
@@ -200,7 +200,7 @@ Nghỉ ngơi
 
 Chủ nhật:
 Nghỉ ngơi
-",
+"
 30,20,Nữ,165,60,28.2,8.3,80,50,"Ngày                     Bữa sáng                                                                                        Bữa trưa                                                            Bữa tối                                                   Bữa phụ                           Tổng lượng calo
 Thứ 2               1 bát yến mạch với sữa và trái cây, 1 quả trứng luộc, 1 ly nước ép trái cây            1 bát cơm gạo lứt với thịt gà nướng, rau xanh                      1 bát cá hồi nướng với khoai lang, rau củ                       1 thanh năng lượng, 1 quả chuối                        2.700
 Thứ 3               1 tô phở bò, 1 quả cam                                                                    1 bát cơm gạo lứt với thịt bò xào rau, 1 ly sữa chua              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 hộp sữa chua Hy Lạp, 1 nắm hạt hạnh nhân        2.600
@@ -269,7 +269,7 @@ Buổi chiều:
 
 Chủ nhật:
 Nghỉ ngơi
-",
+"
 28,50,Nam,170,65,27.8,8.2,85,55,"Ngày                     Bữa sáng                                                                                        Bữa trưa                                                            Bữa tối                                                   Bữa phụ                           Tổng lượng calo
 Thứ 2               1 bát yến mạch với sữa và trái cây, 1 quả trứng luộc, 1 ly nước ép trái cây            1 bát cơm gạo lứt với thịt gà nướng, rau xanh                      1 bát cá hồi nướng với khoai lang, rau củ                       1 thanh năng lượng, 1 quả chuối                        2.700
 Thứ 3               1 tô phở bò, 1 quả cam                                                                    1 bát cơm gạo lứt với thịt bò xào rau, 1 ly sữa chua              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 hộp sữa chua Hy Lạp, 1 nắm hạt hạnh nhân        2.600
@@ -317,7 +317,7 @@ Thứ 7:
 
 Chủ nhật:
 - Nghỉ ngơi
-",
+"
 26,20,Nữ,155,50,22,6.1,80,45,"Ngày	                     Bữa sáng	                                                Bữa trưa	                              Bữa tối	                                        Bữa phụ	                    Tổng năng lượng (kcal)
 Thứ Hai	      Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia	      Cơm gạo lứt với 100g thịt gà luộc	         150g cá hồi nướng với 200g rau củ luộc	            1 quả táo + 1 hộp sữa chua Hy Lạp	        2.500
 Thứ Ba	      Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia	              Cơm gạo lứt với 150g thịt bò luộc	         200g ức gà nướng với 300g rau củ luộc	            1 quả chuối + 1 muỗng canh bơ đậu phộng	2.800
@@ -363,7 +363,7 @@ Nghỉ ngơi
 
 Chủ nhật:
 Chạy recovery: 30 phút
-",
+"
 32,50,Nam,180,75,29.1,8.8,95,60,"Ngày	                     Bữa sáng	                                                Bữa trưa	                              Bữa tối	                                        Bữa phụ	                    Tổng năng lượng (kcal)
 Thứ Hai	      Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia	      Cơm gạo lứt với 100g thịt gà luộc	         150g cá hồi nướng với 200g rau củ luộc	            1 quả táo + 1 hộp sữa chua Hy Lạp	        2.500
 Thứ Ba	      Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia	              Cơm gạo lứt với 150g thịt bò luộc	         200g ức gà nướng với 300g rau củ luộc	            1 quả chuối + 1 muỗng canh bơ đậu phộng	2.800
@@ -414,7 +414,7 @@ Sức mạnh:
 
 Chủ nhật:
 Nghỉ ngơi
-",
+"
 29,20,Nữ,165,65,26.2,7.5,85,55,"Ngày                         Bữa sáng                                                               Bữa trưa                                                            Bữa tối                                                           Bữa phụ                      Tổng calo
 2            2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi        100g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 nắm hạt hạnh nhân, 1 quả chuối        2.500
 3            1 bát cháo yến mạch, 1/2 chén trái cây tươi                                150g ức gà áp chảo, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 hộp sữa chua ít béo, 1 quả táo        2.900
@@ -455,7 +455,7 @@ Chủ nhật: Chạy bộ 90 phút, cường độ vừa phải, bao gồm:
 Khởi động 10 phút
 Chạy 60 phút
 Chạy chậm 20 phút
-",
+"
 31,20,Nam,175,72,32.5,7.3,90,55,"Ngày 	                                          Bữa sáng 		             Bữa trưa 						      Bữa tối 			Bữa phụ 	
 Thứ hai 	1 bát bún bò Huế + 1 quả chuối 	                        1 chén cơm + 70g thịt bò + 70g rau củ 	       1 chén cơm + 70g cá hồi + 70g rau củ 	1 hộp sữa chua + 1 quả táo 	        3,100 kcal
 Thứ ba  	2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối 	1 chén cơm + 70g thịt gà + 70g rau củ 	       1 chén cơm + 70g tôm + 70g rau củ 	1 ly sinh tố bơ + 1 nắm hạt hạnh nhân 	3,400 kcal
@@ -502,10 +502,4 @@ Thứ 7:
 
 Chủ nhật:
 - Chạy bộ: 15km ở tốc độ tempo
-",
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+"
