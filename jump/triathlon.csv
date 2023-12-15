@@ -1,4 +1,4 @@
-﻿age,gender,height,weight,muscle_mass,body_fat,thigh,hip,bicep,shoulder_width,back_thick,maximum_resilience,nutri_train,nutri_compe,training
+﻿age,gender,height,weight,muscle_mass,body_fat,thigh,hip,bicep,back_thick,shoulder_width,maximum_resilience,nutri_train,nutri_compe,training
 20,Nữ,170,55,21.5,6.2,58,90,28,10,40,40,"Thứ  Bữa Sáng                                            Bữa Trưa                                Bữa Tối                                                  Bữa Phụ                       Tổng Kcal
 Hai  Bánh mì nguyên hạt, trứng gà, hoa quả          Gà nướng, 2 bát cơm nâu, rau xanh     Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ              Hạt hạt và quả khô                 3300
 Ba   Sữa hạ chất béo, bánh mì nguyên hạt, chuối     Salad thịt gà, 2 bát cơm quinoa       Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh          Yaourt, quả dứa                    3400
