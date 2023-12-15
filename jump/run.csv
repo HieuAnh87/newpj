@@ -1,405 +1,667 @@
-﻿run_range,age,gender,height,weight,muscle_mass,body_fat,hip,thigh,initial_velocity,retreat_velocity,nutri_train,nutri_compe,training
-100,25,Nam,170,65,30.5,6,85,55,7.2,10,"Thứ   Bữa Sáng                  		             	  Bữa Trưa                                 Bữa Tối                                                     Bữa Phụ                    Tổng Kcal
-Hai   Bánh mì nguyên hạt, trứng gà, hoa quả          Gà nướng, 2 bát cơm nâu, rau xanh        Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ             Hạt hạt và quả khô         3300
-Ba    Sữa hạ chất béo, bánh mì nguyên hạt, chuối     Salad thịt gà, 2 bát cơm quinoa          Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh         Yaourt, quả dứa            3400
-Tư    Oatmeal, hạt lanh, quả mâm xôi         	     Bún riêu chay, trái cây                  Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ        Bơ, hạt hạt, chuối         3200
-Năm   Sandwich cá ngừ, cà chua, hành tây             Gỏi cà chua, tôm, 2 bát cơm nâu          Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh  Hạt lanh, quả táo          3300
-Sáu   Bánh mì nguyên hạt, bơ hạt, trái cây           Cơm cuộn cá ngừ, rau sống                Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh         Yaourt, quả kiwi           3400
-Bảy   Bánh quy hạt lựu, sữa hạ chất béo, trái cây    Bún bò Huế chay, bánh mì nguyên hạt      Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh             Hạt hạt và quả khô         3500
-CN    Omelette, bánh mì nguyên hạt, chuối            Salad hải sản, 2 bát cơm nâu             Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh    Yaourt, hạt lanh, quả dứa  3450","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+run_range	age	gender	height	weight	muscle_mass	body_fat	hip	thigh	initial_velocity	retreat_velocity	nutri_train	nutri_compe	training
+100	25	Nam	170	65	30.5	6	85	55	7.2	10	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"1,500",22,Nữ,160,55,29,7,80,50,6.5,9.2,"Thứ   | Bữa Sáng                                | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"1,500"	22	N?	160	55	29	7	80	50	6.5	9.2	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"10,000",27,Nam,175,70,32,7.5,90,60,7.4,9.4,"Thứ   | Bữa Sáng                                    | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"10,000"	27	Nam	175	70	32	7.5	90	60	7.4	9.4	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"1,500",30,Nữ,165,60,29.2,8.1,80,50,8.1,9.5,"Thứ   | Bữa Sáng                                    | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"1,500"	30	N?	165	60	29.2	8.1	80	50	8.1	9.5	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"5,000",28,Nam,170,65,28.8,8,85,55,8.3,9.1,"Thứ   | Bữa Sáng                                  | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"5,000"	28	Nam	170	65	28.8	8	85	55	8.3	9.1	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-800,26,Nữ,155,50,24,6.5,80,45,6,8.8,"Thứ   | Bữa Sáng                                   | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+800	26	N?	155	50	24	6.5	80	45	6	8.8	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"10,000",32,Nam,180,75,30,9,95,60,7.7,9,"Thứ   | Bữa Sáng                             | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"10,000"	32	Nam	180	75	30	9	95	60	7.7	9	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"5,000",29,Nữ,165,65,27.2,7.3,85,55,8.4,9.3,"Thứ   | Bữa Sáng                               | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"5,000"	29	N?	165	65	27.2	7.3	85	55	8.4	9.3	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
-"5,000",31,Nam,175,72,33,7.5,90,55,7.6,9.4,"Thứ   | Bữa Sáng                               | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
-Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
-Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
-Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
-Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
-Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
-Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
-CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
-","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
-Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
-Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
-Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
-Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
-Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
-Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
-Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
-","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
------------------------------------------------------------------
-Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
-            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
-            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+"5,000"	31	Nam	175	72	33	7.5	90	55	7.6	9.4	"Th?  B?a S�ng                                            B?a Tr?a                                B?a T?i                                                  B?a Ph?                       T?ng Kcal
+Hai  B�nh m� nguy�n h?t, tr?ng g�, hoa qu?          G� n??ng, 2 b�t c?m n�u, rau xanh     C� h?i n??ng, 2 b�t c?m n�u, khoai lang, rau c?              H?t h?t v� qu? kh�                 3300
+Ba   S?a h? ch?t b�o, b�nh m� nguy�n h?t, chu?i     Salad th?t g�, 2 b�t c?m quinoa       B� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh          Yaourt, qu? d?a                    3400
+T?   Oatmeal, h?t lanh, qu? m�m x�i                 B�n ri�u chay, tr�i c�y               Th?t c� ng?, 2 b�t c?m n�u, khoai lang n??ng, rau c?         B?, h?t h?t, chu?i                 3200
+N?m  Sandwich c� ng?, c� chua, h�nh t�y             G?i c� chua, t�m, 2 b�t c?m n�u       Th?t g� n??ng, 2 b�t c?m n�u, b�nh m� nguy�n h?t, rau xanh   H?t lanh, qu? t�o                  3300
+S�u  B�nh m� nguy�n h?t, b? h?t, tr�i c�y           C?m cu?n c� ng?, rau s?ng             G� n??ng, 2 b�t c?m n�u, khoai lang n??ng, rau xanh          Yaourt, qu? kiwi                   3400
+B?y  B�nh quy h?t l?u, s?a h? ch?t b�o, tr�i c�y    B�n b� Hu? chay, b�nh m� nguy�n h?t   Salad th?t g�, 2 b�t c?m n�u, c?m n�u, rau xanh              H?t h?t v� qu? kh�                 3500
+CN   Omelette, b�nh m� nguy�n h?t, chu?i            Salad h?i s?n, 2 b�t c?m n�u          Th?t b� x�o rau c?, 2 b�t c?m n�u, g?o h?t l?u, rau xanh     Yaourt, h?t lanh, qu? d?a          3450"	"Ng�y      B?a s�ng                                                             B?a tr?a                               B?a t?i                                B?a ph?                                T?ng kcal
+Th? hai   2 l�t b�nh m� sandwich + 2 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,700 kcal
+Th? ba    1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 qu? cam + 1 n?m ??u ph?ng                 3,000 kcal
+Th? t?    2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          2,700 kcal
+Th? n?m   1 b�t b�n b� Hu? + 1 qu? chu?i                          1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 h?p s?a chua + 1 qu? t�o                  3,000 kcal
+Th? s�u   2 l�t b�nh m� sandwich + 1 qu? tr?ng + 1 qu? chu?i      1 ch�n c?m + 100g th?t g� + 100g rau c?     1 ch�n c?m + 100g t�m + 100g rau c?       1 ly sinh t? b? + 1 n?m h?t h?nh nh�n       2,900 kcal
+Th? b?y   1 ch�n ch�o y?n m?ch + 1 qu? chu?i                      1 ch�n c?m + 100g th?t heo + 100g rau c?    1 ch�n c?m + 100g c� ng? + 100g rau c?    1 qu? cam + 1 n?m ??u ph?ng                 2,800 kcal
+Ch? nh?t  2 qu? tr?ng + 1 l�t b�nh m� n??ng                       1 ch�n c?m + 100g th?t b� + 100g rau c?     1 ch�n c?m + 100g c� h?i + 100g rau c?    1 ly s?a ??u n�nh + 1 n?m h?t chia          3,000 kcal"	"Th? 2:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+Squat: 3 hi?p x 10-12 l?n
+Deadlift: 3 hi?p x 8-10 l?n
+Bench press: 3 hi?p x 8-10 l?n
 
-Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
-            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
-            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+Th? 3:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
-            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
-            - Tricep Dips: 3x12 reps                 - Plank Variations
+Th? 4:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+G�nh t?: 3 hi?p x 8-10 l?n
+K�o x�: 3 hi?p x 10-12 l?n
 
-Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
-            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
-            - Core Exercises                           - Skipping Rope: 3x5 min
+Th? 5:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y n??c r�t: 3 x 30 gi�y
+Chi?u:
+Ngh? ng?i
 
-Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
-              reps                                           - Lat Pulldowns: 3x12 reps
-              - Plank Variations                        - Sprints: 6x50m
-              - Burpees: 3x15 reps
+Th? 6:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p k? thu?t:
+T?p xu?t ph�t: 20 ph�t
+T?p n??c r�t: 20 ph�t
+Chi?u:
+B�i t?p s?c m?nh:
+HIIT: 3 hi?p x 20 gi�y
 
-Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
-              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
-              - High Knees: 3x3 min                   - Core Exercises
+Th? 7:
+S�ng:
+Kh?i ??ng: 15 ph�t
+B�i t?p s?c b?n:
+Ch?y d�i: 60 ph�t
+Chi?u:
+Ngh? ng?i
 
-Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+Ch? nh?t:
+Ngh? ng?i
 "
