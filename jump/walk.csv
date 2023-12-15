@@ -1,5 +1,5 @@
-﻿Tuổi,Giới tính,Chiều cao,Cân nặng,Tốc độ hồi phục,Khối lượng cơ bắp,Lượng mỡ,Số đo mông,Số đo đùi,Dinh dưỡng tập luyện,Dinh dưỡng thi đấu
-25,Nam,170 cm,65 kg,120 phút,45 kg,15 kg,85 cm,55 cm,"{
+﻿age,walk_range,gender,height,weight,muscle_mass,body_fat,hip,thigh,nutri_train,nutri_compe
+25,20km,Nam,170 cm,65 kg,45 kg,15 kg,85 cm,55 cm,"{
   ""thứ hai"": {
     ""bữa sáng"": ""2 bát phở gà + 1 quả chuối"",
     ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
@@ -88,7 +88,7 @@
   }
 }
 "
-22,Nữ,160 cm,55 kg,100 phút,35 kg,18 kg,80 cm,50 cm,"{
+22,20km,Nữ,160 cm,55 kg,35 kg,18 kg,80 cm,50 cm,"{
   ""thứ hai"": {
     ""bữa sáng"": ""1 bát bún bò Huế + 1 quả chuối"",
     ""bữa trưa"": ""2 chén cơm + 70g thịt bò + 70g rau củ"",
@@ -175,7 +175,7 @@
     ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
   }
 }"
-27,Nam,175 cm,70 kg,130 phút,45 kg,20 kg,90 cm,60 cm,"{
+27,50km,Nam,175 cm,70 kg,45 kg,20 kg,90 cm,60 cm,"{
   ""thứ hai"": {
     ""bữa sáng"": ""2 bát phở bò + 1 quả chuối"",
     ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
@@ -262,7 +262,7 @@
     ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
   }
 }"
-30,Nữ,165 cm,60 kg,120 phút,40 kg,20 kg,80 cm,45 cm,"{
+30,20km,Nữ,165 cm,60 kg,40 kg,20 kg,80 cm,45 cm,"{
   ""Thứ Hai"": {
     ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
     ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
@@ -350,7 +350,7 @@
   }
 }
 "
-28,Nam,170 cm,65 kg,120 phút,45 kg,20 kg,85 cm,53 cm,"{
+28,50km,Nam,170 cm,65 kg,45 kg,20 kg,85 cm,53 cm,"{
   ""Thứ 2"": {
     ""Bữa sáng"": ""1 chén cháo yến mạch với 1 quả chuối"",
     ""Bữa trưa"": ""1 đĩa cơm với 100g thịt nạc hoặc cá hồi"",
@@ -432,7 +432,7 @@
     ""Bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
   }
 }"
-26,Nữ,155 cm,50 kg,110 phút,30 kg,18 kg,80 cm,47 cm,"{
+26,20km,Nữ,155 cm,50 kg,30 kg,18 kg,80 cm,47 cm,"{
   ""Thứ Hai"": {
     ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
     ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
@@ -519,7 +519,7 @@
     ""Bữa phụ"": ""1 hộp sữa chua phô mai, 1 quả kiwi""
   }
 }"
-32,Nam,180 cm,75 kg,150 phút,55 kg,25 kg,95 cm,60 cm,"{
+32,50km,Nam,180 cm,75 kg,55 kg,25 kg,95 cm,60 cm,"{
   ""2"": {
     ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
     ""Bữa trưa"": ""100g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
@@ -607,7 +607,7 @@
   }
 }
 "
-29,Nữ,165 cm,65 kg,120 phút,45 kg,20 kg,85 cm,55 cm,"{
+29,20km,Nữ,165 cm,65 kg,45 kg,20 kg,85 cm,55 cm,"{
   ""Thứ 2"": {
     ""Bữa sáng"": ""1 chén cháo yến mạch với 1 quả chuối"",
     ""Bữa trưa"": ""1 đĩa cơm với 100g thịt nạc hoặc cá hồi"",
@@ -689,7 +689,7 @@
     ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
   }
 }"
-31,Nam,175 cm,72 kg,140 phút,50 kg,22 kg,90 cm,55 cm,"{
+31,20km,Nam,175 cm,72 kg,50 kg,22 kg,90 cm,55 cm,"{
   ""thứ hai"": {
     ""bữa sáng"": ""2 bát phở bò + 1 quả chuối"",
     ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
