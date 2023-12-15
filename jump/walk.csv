@@ -1,0 +1,779 @@
+﻿Tuổi,Giới tính,Chiều cao,Cân nặng,Tốc độ hồi phục,Khối lượng cơ bắp,Lượng mỡ,Số đo mông,Số đo đùi,Dinh dưỡng tập luyện,Dinh dưỡng thi đấu
+25,Nam,170 cm,65 kg,120 phút,45 kg,15 kg,85 cm,55 cm,"{
+  ""thứ hai"": {
+    ""bữa sáng"": ""2 bát phở gà + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g cá hồi + 100g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ ba"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt gà + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g tôm + 100g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""thứ tư"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt heo + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g cá ngừ + 100g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""thứ năm"": {
+    ""bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g cá hồi + 100g rau củ"",
+    ""bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""thứ sáu"": {
+    ""bữa sáng"": ""2 bát bún bò Huế + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt gà + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g tôm + 100g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ bảy"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt heo + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g cá ngừ + 100g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""chủ nhật"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
+    ""bữa tối"": ""2 chén cơm + 100g cá hồi + 100g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}
+","{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  }
+}
+"
+22,Nữ,160 cm,55 kg,100 phút,35 kg,18 kg,80 cm,50 cm,"{
+  ""thứ hai"": {
+    ""bữa sáng"": ""1 bát bún bò Huế + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt bò + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g cá hồi + 70g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ ba"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt gà + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g tôm + 70g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""thứ tư"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt heo + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g cá ngừ + 70g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""thứ năm"": {
+    ""bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt bò + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g cá hồi + 70g rau củ"",
+    ""bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""thứ sáu"": {
+    ""bữa sáng"": ""1 bát bún chả + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt gà + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g tôm + 70g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ bảy"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt heo + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g cá ngừ + 70g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""chủ nhật"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 70g thịt bò + 70g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 70g cá hồi + 70g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}","{
+  ""thứ hai"": {
+    ""bữa sáng"": ""1 bát bún bò Huế + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g cá hồi + 100g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ ba"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt gà + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g tôm + 100g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""thứ tư"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt heo + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g cá ngừ + 100g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""thứ năm"": {
+    ""bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g cá hồi + 100g rau củ"",
+    ""bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""thứ sáu"": {
+    ""bữa sáng"": ""1 bát bún chả + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt gà + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g tôm + 100g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ bảy"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt heo + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g cá ngừ + 100g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""chủ nhật"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""2 chén cơm + 100g thịt bò + 100g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 100g cá hồi + 100g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}"
+27,Nam,175 cm,70 kg,130 phút,45 kg,20 kg,90 cm,60 cm,"{
+  ""thứ hai"": {
+    ""bữa sáng"": ""2 bát phở bò + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá hồi + 150g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ ba"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt gà + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g tôm + 150g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""thứ tư"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt heo + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá ngừ + 150g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""thứ năm"": {
+    ""bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá hồi + 150g rau củ"",
+    ""bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""thứ sáu"": {
+    ""bữa sáng"": ""2 bát bún chả + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt gà + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g tôm + 150g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ bảy"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt heo + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá ngừ + 150g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""chủ nhật"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá hồi + 150g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}","{
+  ""thứ hai"": {
+    ""bữa sáng"": ""2 bát phở bò + 1 quả chuối + 1 ly sữa tươi"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt bò + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g cá hồi + 200g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ ba"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối + 1 ly sữa đậu nành"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt gà + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g tôm + 200g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""thứ tư"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối + 1 ly nước ép trái cây"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt heo + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g cá ngừ + 200g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""thứ năm"": {
+    ""bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng + 1 ly sinh tố trái cây"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt bò + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g cá hồi + 200g rau củ"",
+    ""bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""thứ sáu"": {
+    ""bữa sáng"": ""2 bát bún chả + 1 quả chuối + 1 ly sữa tươi"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt gà + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g tôm + 200g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ bảy"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối + 1 ly nước ép trái cây"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt heo + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g cá ngừ + 200g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""chủ nhật"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối + 1 ly sữa đậu nành"",
+    ""bữa trưa"": ""1 chén cơm + 200g thịt bò + 200g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 200g cá hồi + 200g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}"
+30,Nữ,165 cm,60 kg,120 phút,40 kg,20 kg,80 cm,45 cm,"{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  }
+}","{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  }
+}
+"
+28,Nam,170 cm,65 kg,120 phút,45 kg,20 kg,85 cm,53 cm,"{
+  ""Thứ 2"": {
+    ""Bữa sáng"": ""1 chén cháo yến mạch với 1 quả chuối"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt nạc hoặc cá hồi"",
+    ""Bữa tối"": ""1 tô canh cua rau đay"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  },
+  ""Thứ 3"": {
+    ""Bữa sáng"": ""2 quả trứng ốp la với 1 lát bánh mì nguyên cám"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt bò hoặc tôm"",
+    ""Bữa tối"": ""1 tô súp gà ngô non"",
+    ""Bữa phụ"": ""1 hộp sữa chua Hy Lạp với 1/2 cốc trái cây, 1 thanh protein bar""
+  },
+  ""Thứ 4"": {
+    ""Bữa sáng"": ""1 chén bột yến mạch với 1 quả trứng"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt heo hoặc ức gà"",
+    ""Bữa tối"": ""1 tô canh chua"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  },
+  ""Thứ 5"": {
+    ""Bữa sáng"": ""1 chén cháo gạo lứt với 1 quả táo"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt bò hoặc tôm"",
+    ""Bữa tối"": ""1 tô bún bò Huế"",
+    ""Bữa phụ"": ""1 hộp sữa chua Hy Lạp với 1/2 cốc trái cây, 1 thanh protein bar""
+  },
+  ""Thứ 6"": {
+    ""Bữa sáng"": ""2 lát bánh mì nguyên cám với 1 quả bơ"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt gà nướng"",
+    ""Bữa tối"": ""1 tô canh chua"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  },
+  ""Thứ 7"": {
+    ""Bữa sáng"": ""1 chén yến mạch với 1 quả chuối"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g cá hồi nướng"",
+    ""Bữa tối"": ""1 tô canh cua rau đay"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  }
+}
+","{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""2 bát bún bò Huế + 1 quả chuối"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt bò + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g cá hồi + 100g rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""2 lát bánh mì sandwich nguyên cám + 1 quả trứng + 1 quả chuối"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt gà + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g tôm + 100g rau củ"",
+    ""Bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt heo + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g cá ngừ + 100g rau củ"",
+    ""Bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng nguyên cám"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt bò + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g cá hồi + 100g rau củ"",
+    ""Bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""2 bát bún chả + 1 quả chuối"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt gà + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g tôm + 100g rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt heo + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g cá ngừ + 100g rau củ"",
+    ""Bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""2 lát bánh mì sandwich nguyên cám + 1 quả trứng + 1 quả chuối"",
+    ""Bữa trưa"": ""1 chén cơm gạo lứt + 100g thịt bò + 100g rau củ"",
+    ""Bữa tối"": ""1 chén cơm gạo lứt + 100g cá hồi + 100g rau củ"",
+    ""Bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}"
+26,Nữ,155 cm,50 kg,110 phút,30 kg,18 kg,80 cm,47 cm,"{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  }
+}","{
+  ""Thứ 2"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1 lát bánh mì nguyên cám, 1 cốc sữa chua ít béo, 1 quả chuối"",
+    ""Bữa trưa"": ""1 bát cơm gạo lứt, 100g thịt nạc, 1 đĩa rau xanh luộc, 1 quả cam"",
+    ""Bữa tối"": ""1 tô súp gà, 100g cá hồi, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 trái cây tươi, 1 hộp sữa chua""
+  },
+  ""Thứ 3"": {
+    ""Bữa sáng"": ""1 bát cháo yến mạch, 1 quả trứng luộc, 1 cốc sữa hạt"",
+    ""Bữa trưa"": ""2 bát cơm gạo lứt, 150g thịt gà, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""1 tô canh cua, 100g tôm, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 thanh granola, 1 cốc sữa tươi""
+  },
+  ""Thứ 4"": {
+    ""Bữa sáng"": ""1 bát hủ tiếu khô, 1 quả trứng luộc, 1 cốc nước cam"",
+    ""Bữa trưa"": ""1 bát cơm gạo lứt, 100g thịt bò, 1 đĩa rau xanh xào"",
+    ""Bữa tối"": ""1 tô phở bò, 1 bát canh rau"",
+    ""Bữa phụ"": ""1 hũ sữa chua Hy Lạp, 1 quả táo""
+  },
+  ""Thứ 5"": {
+    ""Bữa sáng"": ""1 bát bánh mì sandwich thịt nguội, 1 quả chuối, 1 cốc sữa tươi"",
+    ""Bữa trưa"": ""1 bát cơm gạo lứt, 150g cá ngừ, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""1 tô canh xương, 100g thịt lợn nạc, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua phô mai, 1 quả kiwi""
+  },
+  ""Thứ 6"": {
+    ""Bữa sáng"": ""1 bát cháo yến mạch, 1 quả trứng luộc, 1 cốc sữa hạt"",
+    ""Bữa trưa"": ""2 bát cơm gạo lứt, 100g thịt gà, 1 đĩa rau xanh xào"",
+    ""Bữa tối"": ""1 tô bún ốc, 1 bát canh rau"",
+    ""Bữa phụ"": ""1 thanh granola, 1 cốc sữa tươi""
+  },
+  ""Thứ 7"": {
+    ""Bữa sáng"": ""1 bát phở bò, 1 quả chuối, 1 cốc nước cam"",
+    ""Bữa trưa"": ""1 bát cơm gạo lứt, 150g cá hồi, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""1 tô canh cua, 100g tôm, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 hũ sữa chua Hy Lạp, 1 quả táo""
+  },
+  ""Chủ nhật"": {
+    ""Bữa sáng"": ""1 bát bánh mì sandwich trứng, 1 quả chuối, 1 cốc sữa tươi"",
+    ""Bữa trưa"": ""2 bát cơm gạo lứt, 100g thịt bò, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""1 tô bún chả, 1 bát canh rau"",
+    ""Bữa phụ"": ""1 hộp sữa chua phô mai, 1 quả kiwi""
+  }
+}"
+32,Nam,180 cm,75 kg,150 phút,55 kg,25 kg,95 cm,60 cm,"{
+  ""2"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""100g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 nắm hạt hạnh nhân, 1 quả chuối""
+  },
+  ""3"": {
+    ""Bữa sáng"": ""1 bát cháo yến mạch, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g ức gà áp chảo, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua ít béo, 1 quả táo""
+  },
+  ""4"": {
+    ""Bữa sáng"": ""1 bát bột yến mạch, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""150g cá ngừ đóng hộp, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 nắm hạt chia, 1 quả cam""
+  },
+  ""5"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g tôm hấp, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g thịt lợn nạc luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 thanh protein bar, 1 quả kiwi""
+  },
+  ""6"": {
+    ""Bữa sáng"": ""1 bát cháo yến mạch, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua ít béo, 1 quả chuối""
+  },
+  ""7"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 nắm hạt hạnh nhân, 1 quả táo""
+  },
+  ""Chủ nhật"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g tôm hấp, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g thịt lợn nạc luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 thanh protein bar, 1 quả kiwi""
+  }
+}","{
+  ""2"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""100g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 nắm hạt hạnh nhân, 1 quả chuối""
+  },
+  ""3"": {
+    ""Bữa sáng"": ""1 bát cháo yến mạch, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g ức gà áp chảo, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua ít béo, 1 quả táo""
+  },
+  ""4"": {
+    ""Bữa sáng"": ""1 bát bột yến mạch, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""150g cá ngừ đóng hộp, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 nắm hạt chia, 1 quả cam""
+  },
+  ""5"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g tôm hấp, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g thịt lợn nạc luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 thanh protein bar, 1 quả kiwi""
+  },
+  ""6"": {
+    ""Bữa sáng"": ""1 bát cháo yến mạch, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 hộp sữa chua ít béo, 1 quả chuối""
+  },
+  ""7"": {
+    ""Bữa sáng"": ""2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi"",
+    ""Bữa trưa"": ""150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc"",
+    ""Bữa tối"": ""200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa salad rau củ"",
+    ""Bữa phụ"": ""1 nắm hạt hạnh nhân, 1 quả táo""
+  },
+  ""Chủ nhật"": {
+    ""Bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối + 1 ly sữa đậu nành"",
+    ""Bữa trưa"": ""1 chén cơm + 200g thịt bò + 200g rau củ"",
+    ""Bữa tối"": ""1 chén cơm + 200g cá hồi + 200g rau củ"",
+    ""Bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}
+"
+29,Nữ,165 cm,65 kg,120 phút,45 kg,20 kg,85 cm,55 cm,"{
+  ""Thứ 2"": {
+    ""Bữa sáng"": ""1 chén cháo yến mạch với 1 quả chuối"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt nạc hoặc cá hồi"",
+    ""Bữa tối"": ""1 tô canh cua rau đay"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  },
+  ""Thứ 3"": {
+    ""Bữa sáng"": ""2 quả trứng ốp la với 1 lát bánh mì nguyên cám"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt bò hoặc tôm"",
+    ""Bữa tối"": ""1 tô súp gà ngô non"",
+    ""Bữa phụ"": ""1 hộp sữa chua Hy Lạp với 1/2 cốc trái cây, 1 thanh protein bar""
+  },
+  ""Thứ 4"": {
+    ""Bữa sáng"": ""1 chén bột yến mạch với 1 quả trứng"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt heo hoặc ức gà"",
+    ""Bữa tối"": ""1 tô canh chua"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  },
+  ""Thứ 5"": {
+    ""Bữa sáng"": ""1 chén cháo gạo lứt với 1 quả táo"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt bò hoặc tôm"",
+    ""Bữa tối"": ""1 tô bún bò Huế"",
+    ""Bữa phụ"": ""1 hộp sữa chua Hy Lạp với 1/2 cốc trái cây, 1 thanh protein bar""
+  },
+  ""Thứ 6"": {
+    ""Bữa sáng"": ""2 lát bánh mì nguyên cám với 1 quả bơ"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g thịt gà nướng"",
+    ""Bữa tối"": ""1 tô canh chua"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  },
+  ""Thứ 7"": {
+    ""Bữa sáng"": ""1 chén yến mạch với 1 quả chuối"",
+    ""Bữa trưa"": ""1 đĩa cơm với 100g cá hồi nướng"",
+    ""Bữa tối"": ""1 tô canh cua rau đay"",
+    ""Bữa phụ"": ""1 quả chuối, 1 hộp sữa chua Hy Lạp, 1 thanh protein bar""
+  }
+}
+","{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  }
+}"
+31,Nam,175 cm,72 kg,140 phút,50 kg,22 kg,90 cm,55 cm,"{
+  ""thứ hai"": {
+    ""bữa sáng"": ""2 bát phở bò + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá hồi + 150g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ ba"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt gà + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g tôm + 150g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  },
+  ""thứ tư"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt heo + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá ngừ + 150g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""thứ năm"": {
+    ""bữa sáng"": ""2 quả trứng + 1 lát bánh mì nướng"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá hồi + 150g rau củ"",
+    ""bữa phụ"": ""1 ly sữa đậu nành + 1 nắm hạt chia""
+  },
+  ""thứ sáu"": {
+    ""bữa sáng"": ""2 bát bún chả + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt gà + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g tôm + 150g rau củ"",
+    ""bữa phụ"": ""1 hộp sữa chua + 1 quả táo""
+  },
+  ""thứ bảy"": {
+    ""bữa sáng"": ""1 chén cháo yến mạch + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt heo + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá ngừ + 150g rau củ"",
+    ""bữa phụ"": ""1 quả cam + 1 nắm đậu phộng""
+  },
+  ""chủ nhật"": {
+    ""bữa sáng"": ""2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối"",
+    ""bữa trưa"": ""1 chén cơm + 150g thịt bò + 150g rau củ"",
+    ""bữa tối"": ""1 chén cơm + 150g cá hồi + 150g rau củ"",
+    ""bữa phụ"": ""1 ly sinh tố bơ + 1 nắm hạt hạnh nhân""
+  }
+}","{
+  ""Thứ Hai"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g thịt gà luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Ba"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Tư"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Thứ Năm"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  },
+  ""Thứ Sáu"": {
+    ""Bữa sáng"": ""Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 150g thịt bò luộc"",
+    ""Bữa tối"": ""200g ức gà nướng với 300g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả chuối + 1 muỗng canh bơ đậu phộng""
+  },
+  ""Thứ Bảy"": {
+    ""Bữa sáng"": ""Trứng luộc với bánh mì nguyên cám"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 200g cá ngừ sốt cà chua"",
+    ""Bữa tối"": ""250g thịt lợn nạc kho tiêu với 400g rau củ luộc"",
+    ""Bữa phụ"": ""1 cốc sữa ít béo""
+  },
+  ""Chủ Nhật"": {
+    ""Bữa sáng"": ""Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia"",
+    ""Bữa trưa"": ""Cơm gạo lứt với 100g tôm luộc"",
+    ""Bữa tối"": ""150g cá hồi nướng với 200g rau củ luộc"",
+    ""Bữa phụ"": ""1 quả táo + 1 hộp sữa chua Hy Lạp""
+  }
+}
+"
