@@ -1,0 +1,737 @@
+﻿age,gender,height,weight,muscle_mass,body_fat,shoulder_width,back_thick,belly_thick,bicep,nutri_train,nutri_compe,training
+25,Nam,180,80,40,5.9,50,20,10,35,"Ngày              Bữa sáng                                                 Bữa trưa                                Bữa tối                                      Bữa phụ                           Tổng kcal
+Thứ hai    1 bát bún bò Huế + 1 quả chuối                            1 chén cơm + 70g thịt bò + 70g rau củ     1 chén cơm + 70g cá hồi + 70g rau củ    1 hộp sữa chua + 1 quả táo               3,100 kcal
+Thứ ba     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối        1 chén cơm + 70g thịt gà + 70g rau củ     1 chén cơm + 70g tôm + 70g rau củ       1 ly sinh tố bơ + 1 nắm hạt hạnh nhân    3,400 kcal
+Thứ tư     1 chén cháo yến mạch + 1 quả chuối                        1 chén cơm + 70g thịt heo + 70g rau củ    1 chén cơm + 70g cá ngừ + 70g rau củ    1 quả cam + 1 nắm đậu phộng              3,100 kcal
+Thứ năm    2 quả trứng + 1 lát bánh mì nướng                         1 chén cơm + 70g thịt bò + 70g rau củ     1 chén cơm + 70g cá hồi + 70g rau củ    1 ly sữa đậu nành + 1 nắm hạt chia       3,400 kcal
+Thứ sáu    1 bát bún chả + 1 quả chuối                               1 chén cơm + 70g thịt gà + 70g rau củ     1 chén cơm + 70g tôm + 70g rau củ       1 hộp sữa chua + 1 quả táo               3,100 kcal
+Thứ bảy    1 chén cháo yến mạch + 1 quả chuối                        1 chén cơm + 70g thịt heo + 70g rau củ    1 chén cơm + 70g cá ngừ + 70g rau củ    1 quả cam + 1 nắm đậu phộng              3,100 kcal
+Chủ nhật   2 quả trứng + 1 lát bánh mì nướng                         1 chén cơm + 70g thịt bò + 70g rau củ     1 chén cơm + 70g cá hồi + 70g rau củ    1 ly sữa đậu nành + 1 nắm hạt chia       3,400 kcal","""Ngày                 Bữa sáng                                                                  Bữa trưa                                                             Bữa tối                                                  Bữa phụ                         Tổng kcal
+Thứ hai    2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối + 1 ly sinh tố whey    1 chén cơm + 100g thịt bò + 100g rau củ + 1 ly nước ép trái cây    1 chén cơm + 100g cá hồi + 100g rau củ + 1 ly sữa chua      1 nắm hạt chia + 1 quả táo               2,700 kcal
+Thứ ba     1 chén cháo yến mạch + 1 quả chuối + 1 ly sữa đậu nành                    1 chén cơm + 100g thịt gà + 100g rau củ + 1 ly nước detox          1 chén cơm + 100g tôm + 100g rau củ + 1 quả cam             1 nắm hạt hạnh nhân + 1 nắm đậu phộng    3,000 kcal
+Thứ tư     2 quả trứng + 1 lát bánh mì nướng + 1 ly sữa hạt                          1 chén cơm + 100g thịt heo + 100g rau củ + 1 ly nước ép cà rốt     1 chén cơm + 100g cá ngừ + 100g rau củ + 1 ly sinh tố bơ    1 nắm hạt chia + 1 quả bưởi              2,700 kcal
+Thứ năm    1 bát bún bò Huế + 1 quả chuối + 1 ly nước dừa                            1 chén cơm + 100g thịt bò + 100g rau củ + 1 ly nước ép dứa         1 chén cơm + 100g cá hồi + 100g rau củ + 1 hộp sữa chua     1 nắm hạt hạnh nhân + 1 nắm đậu phộng    3,000 kcal
+Thứ sáu    2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối + 1 ly sinh tố whey    1 chén cơm + 100g thịt gà + 100g rau củ + 1 ly nước ép trái cây    1 chén cơm + 100g tôm + 100g rau củ + 1 ly sữa chua         1 nắm hạt chia + 1 quả táo               2,900 kcal
+Thứ bảy    1 chén cháo yến mạch + 1 quả chuối + 1 ly sữa đậu nành                    1 chén cơm + 100g thịt heo + 100g rau củ + 1 ly nước detox         1 chén cơm + 100g cá ngừ + 100g rau củ + 1 quả cam          1 nắm hạt hạnh nhân + 1 nắm đậu phộng    2,800 kcal
+Chủ nhật   2 quả trứng + 1 lát bánh mì nướng + 1 ly sữa hạt                          1 chén cơm + 100g thịt bò + 100g rau củ + 1 ly nước ép cà rốt      1 chén cơm + 100g cá hồi + 100g rau củ + 1 ly sinh tố bơ    1 nắm hạt chia + 1 quả bưởi              3,000 kcal""","Thứ 2
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức mạnh:
+Gánh tạ đòn: 3 hiệp, 8-12 lần/hiệp
+Nâng tạ tay: 3 hiệp, 8-12 lần/hiệp
+Kéo xà đơn: 3 hiệp, tối đa lần
+Kỹ thuật:
+Tập động tác RSCC và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+
+Thứ 3
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức bền:
+Chạy nước rút 60m x 10 lần
+Chạy bền 10km
+Kỹ thuật:
+Tập động tác trượt đà - ra sức cuối cùng và giữ thăng bằng không cầm tạ
+
+Thứ 4
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức mạnh:
+Tập tạ đẩy ngực: 3 hiệp, 8-12 lần/hiệp
+Tập tạ đẩy vai: 3 hiệp, 8-12 lần/hiệp
+Tập tạ móc: 3 hiệp, 8-12 lần/hiệp
+Kỹ thuật:
+Tập động tác ra sức cuối cùng và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+
+Thứ 5
+Nghỉ ngơi
+
+Thứ 6
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức mạnh:
+Tập tạ tập cơ chân: squat, lunges, calf raise,...
+Kỹ thuật:
+Tập động tác trượt đà - ra sức cuối cùng và giữ thăng bằng không cầm tạ
+
+Thứ 7
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức bền:
+Chạy nước rút 60m x 10 lần
+Chạy bền 10km
+Kỹ thuật:
+Tập động tác ra sức cuối cùng và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+
+Chủ nhật
+Nghỉ ngơi
+"
+23,Nữ,170,70,35,9.1,45,18,9,30,"Ngày                                 Bữa sáng                                                                         Bữa trưa                                                          Bữa tối                                                            Bữa phụ                                Tổng lượng calo
+Thứ 2              Cháo yến mạch, 200g yến mạch, 200ml sữa hạt, 1 quả trứng luộc, 1 quả chuối        Phở bò, 200g phở, 200g thịt bò, 1 bát rau sống, 1 bát cơm                Cá hồi nướng, 200g cá hồi, 1 củ khoai lang, 100g rau củ                Thanh năng lượng thể thao, 60g, 1 quả táo          2,700 kcal
+Thứ 3              Hủ tiếu khô, 200g hủ tiếu, 100g thịt nạc, 5 quả trứng cút, 100g rau sống                Bún bò Huế, 200g bún, 200g thịt bò, 1 bát rau sống, 1 bát cơm                Thịt gà kho gừng, 200g thịt gà, 1 củ khoai lang, 100g rau củ        Sữa chua, 1 hộp, 1 nắm hạnh nhân                  3,000 kcal
+Thứ 4              Bánh mì trứng, 2 lát bánh mì, 1 quả trứng, 100ml sữa tươi                                Miến gà, 200g miến, 200g thịt gà, 1 bát rau sống, 1 bát cơm                Sườn nướng BBQ, 200g sườn, 1 củ khoai tây chiên, 100g rau củ        Sinh tố trái cây, 200ml, 1 củ khoai lang nướng          2,700 kcal
+Thứ 5              Ngũ cốc, 30g ngũ cốc, 200ml sữa chua, 1 quả cam                                        Cơm rang thập cẩm, 200g cơm, 100g thịt bò, 1 quả trứng, 100g rau củ        Cá ngừ sốt cà chua, 200g cá ngừ, 1 củ khoai lang, 100g rau củ        Thanh protein bar, 60g, 1 nắm hạt bí                  3,000 kcal
+Thứ 6              Cháo lươn, 200g cháo, 100g lươn, 100g rau răm, 1 quả chuối                        Bún riêu cua, 200g bún, 200g cua, 1 bát rau sống, 1 bát cơm                Thịt heo luộc, 200g thịt heo, 100g rau củ                        Sữa chua, 1 hộp, 1 quả táo                          2,900 kcal
+Thứ 7              Phở bò, 200g phở, 200g thịt bò, 1 bát rau sống, 1 bát cơm                                Bún bò Huế, 200g bún, 200g thịt bò, 1 bát rau sống, 1 bát cơm                Cá hồi nướng, 200g cá hồi, 1 củ khoai lang, 100g rau củ                Thanh năng lượng thể thao, 60g, 1 quả táo          2,800 kcal
+Chủ nhật      Yến mạch, 200g yến mạch, 200ml sữa hạt, 1 quả chuối                                Miến gà, 200g miến, 200g thịt gà, 1 bát rau sống, 1 bát cơm                Thịt gà kho gừng, 200g thịt gà, 1 củ khoai lang, 100g rau củ        Sữa chua, 1 hộp, 1 nắm hạnh nhân                  3,000 kcal","""Ngày                             Bữa sáng                                                        Bữa trưa                                      Bữa tối                                                Bữa phụ                            Tổng năng lượng (kcal)
+Thứ Hai              Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia              Cơm gạo lứt với 100g thịt gà luộc                 150g cá hồi nướng với 200g rau củ luộc                    1 quả táo + 1 hộp sữa chua Hy Lạp                2.500
+Thứ Ba              Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia                      Cơm gạo lứt với 150g thịt bò luộc                 200g ức gà nướng với 300g rau củ luộc                    1 quả chuối + 1 muỗng canh bơ đậu phộng        2.800
+Thứ Tư              Trứng luộc với bánh mì nguyên cám                                      Cơm gạo lứt với 200g cá ngừ sốt cà chua         250g thịt lợn nạc kho tiêu với 400g rau củ luộc    1 cốc sữa ít béo                                2.600
+Thứ Năm              Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia      Cơm gạo lứt với 100g tôm luộc                 150g cá hồi nướng với 200g rau củ                  1 quả táo + 1 hộp sữa chua Hy Lạp                2.700
+Thứ Sáu              Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia                      Cơm gạo lứt với 150g thịt bò luộc                 200g ức gà nướng với 300g rau củ luộc                    1 quả chuối + 1 muỗng canh bơ đậu phộng        2.900
+Thứ Bảy              Trứng luộc với bánh mì nguyên cám                                      Cơm gạo lứt với 200g cá ngừ sốt cà chua         250g thịt lợn nạc kho tiêu với 400g rau củ luộc    1 cốc sữa ít béo                                2.700
+Chủ Nhật      Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia              Cơm gạo lứt với 100g tôm luộc                 150g cá hồi nướng với 200g rau củ luộc                    1 quả táo + 1 hộp sữa chua Hy Lạp                2.800
+""","Thứ 2
+
+Bài tập sức mạnh:
+- Squat: 3 hiệp x 8-12 lần
+- Bench press: 3 hiệp x 8-12 lần
+- Deadlift: 3 hiệp x 5-8 lần
+
+Bài tập kỹ thuật:
+- Tập động tác trượt đà và ra sức cuối cùng
+- Tập động tác giữ thăng bằng tay có cầm tạ
+
+Thứ 3
+
+Bài tập sức mạnh:
+- Overhead press: 3 hiệp x 8-12 lần
+- Bent-over row: 3 hiệp x 8-12 lần
+- Pull-up: 3 hiệp x tối đa
+
+Bài tập kỹ thuật:
+- Tập động tác RSCC
+
+Thứ 4
+
+Bài tập sức mạnh:
+- Clean and jerk: 3 hiệp x 5-8 lần
+- Snatch: 3 hiệp x 5-8 lần
+
+Bài tập kỹ thuật:
+- Tập động tác trượt đà và ra sức cuối cùng với tạ nhẹ
+
+Thứ 5
+
+Bài tập sức bền:
+- Chạy 5km
+- Chạy interval
+
+Bài tập kỹ thuật:
+- Tập động tác trượt đà và ra sức cuối cùng với tạ nặng
+
+Thứ 6
+
+Nghỉ ngơi
+
+Thứ 7
+
+Bài tập sức mạnh:
+- Tập các bài tập bổ trợ cho các nhóm cơ yếu
+
+Bài tập kỹ thuật:
+- Tập các bài tập kỹ thuật nâng cao
+
+Chủ nhật
+
+Bài tập sức bền:
+- Chạy 10km
+
+Bài tập kỹ thuật:
+- Tập các bài tập kỹ thuật tổng hợp
+"
+27,Nam,190,90,45,13.7,55,22,11,37,"""
+Ngày                Bữa sáng                                             Bữa trưa                                   Bữa tối                                     Bữa phụ                           Tổng kcal
+Thứ hai    2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối    1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sinh tố bơ + 1 nắm hạt hạnh nhân    2,700 kcal
+Thứ ba     1 chén cháo yến mạch + 1 quả chuối                    1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư     2 quả trứng + 1 lát bánh mì nướng                     1 chén cơm + 100g thịt heo + 100g rau củ    1 chén cơm + 100g cá ngừ + 100g rau củ    1 ly sữa đậu nành + 1 nắm hạt chia       2,700 kcal
+Thứ năm    1 bát bún bò Huế + 1 quả chuối                        1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu    2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối    1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 ly sinh tố bơ + 1 nắm hạt hạnh nhân    2,900 kcal
+Thứ bảy    1 chén cháo yến mạch + 1 quả chuối                    1 chén cơm + 100g thịt heo + 100g rau củ    1 chén cơm + 100g cá ngừ + 100g rau củ    1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật   2 quả trứng + 1 lát bánh mì nướng                     1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sữa đậu nành + 1 nắm hạt chia       3,000 kcal""","""Ngày               Bữa sáng                                            Bữa trưa                                      Bữa tối                               Bữa phụ                                Tổng kcal
+Thứ hai    2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối    1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sinh tố bơ + 1 nắm hạt chia           2,700 kcal
+Thứ ba     1 chén cháo yến mạch + 1 quả chuối                    1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 quả cam + 1 nắm đậu phộng                3,000 kcal
+Thứ tư     2 quả trứng + 1 lát bánh mì nướng                     1 chén cơm + 100g thịt heo + 100g rau củ    1 chén cơm + 100g cá ngừ + 100g rau củ    1 ly sữa đậu nành + 1 nắm hạt hạnh nhân    2,700 kcal
+Thứ năm    1 bát bún bò Huế + 1 quả chuối                        1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 hộp sữa chua + 1 quả táo                 3,000 kcal
+Thứ sáu    2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối    1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 ly sinh tố bơ + 1 nắm hạt chia           2,900 kcal
+Thứ bảy    1 chén cháo yến mạch + 1 quả chuối                    1 chén cơm + 100g thịt heo + 100g rau củ    1 chén cơm + 100g cá ngừ + 100g rau củ    1 quả cam + 1 nắm đậu phộng                2,800 kcal
+Chủ nhật   2 quả trứng + 1 lát bánh mì nướng                     1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sữa đậu nành + 1 nắm hạt hạnh nhân    3,000 kcal""","Thứ 2:
+
+Sáng:
+- Khởi động (15 phút)
+- Chạy bộ nhẹ nhàng
+- Ép dẻo
+- Các bài tập khởi động động tác
+
+Chiều:
+- Tập sức mạnh cơ tổng thể
+- Các bài tập compound (kết hợp nhiều nhóm cơ)
+- Sử dụng tạ có trọng lượng vừa phải (khoảng 70-80% trọng lượng tối đa)
+- Số lần lặp: 8-12 lần
+- Số hiệp: 3-4 hiệp
+
+Thứ 3:
+
+Sáng:
+- Khởi động (15 phút)
+- Chạy bộ nhẹ nhàng
+- Ép dẻo
+- Các bài tập khởi động động tác
+
+Chiều:
+- Tập kỹ thuật ném đẩy
+- Tập các động tác chuẩn bị, trượt đà và ra sức cuối cùng
+- Tập với tạ có trọng lượng nhẹ (khoảng 50-60% trọng lượng tối đa)
+- Số lần lặp: 10-15 lần
+- Số hiệp: 3-4 hiệp
+
+Thứ 4:
+
+Sáng: Nghỉ
+
+Chiều:
+- Tập sức mạnh cơ chuyên biệt
+- Các bài tập tập trung vào các nhóm cơ cần thiết cho ném đẩy
+- Sử dụng tạ có trọng lượng vừa phải (khoảng 70-80% trọng lượng tối đa)
+- Số lần lặp: 6-8 lần
+- Số hiệp: 3-4 hiệp
+
+Thứ 5:
+
+Sáng:
+- Khởi động (15 phút)
+- Chạy bộ nhẹ nhàng
+- Ép dẻo
+- Các bài tập khởi động động tác
+
+Chiều:
+- Tập sức bền
+- Các bài tập chạy, bơi lội, đạp xe,...
+- Thời gian tập: 30-60 phút
+
+Thứ 6:
+
+Sáng: Nghỉ
+
+Chiều:
+- Tập kỹ thuật ném đẩy
+- Tập các động tác chuẩn bị, trượt đà và ra sức cuối cùng
+- Tập với tạ có trọng lượng trung bình (khoảng 60-70% trọng lượng tối đa)
+- Số lần lặp: 12-15 lần
+- Số hiệp: 3-4 hiệp
+
+Thứ 7:
+
+Sáng:
+- Khởi động (15 phút)
+- Chạy bộ nhẹ nhàng
+- Ép dẻo
+- Các bài tập khởi động động tác
+
+Chiều:
+- Tập sức mạnh cơ tổng thể
+- Các bài tập compound (gồm nhiều nhóm cơ)
+- Sử dụng tạ có trọng lượng nặng (khoảng 80-90% trọng lượng tối đa)
+- Số lần lặp: 4-6 lần
+- Số hiệp: 3-4 hiệp
+
+Chủ nhật:
+
+Sáng: Nghỉ
+
+Chiều: Nghỉ
+"
+29,Nữ,165,65,32,5.3,42,17,8,28,"""Ngày                     Bữa sáng                                                                                        Bữa trưa                                                            Bữa tối                                                   Bữa phụ                           Tổng lượng calo
+Thứ 2               1 bát yến mạch với sữa và trái cây, 1 quả trứng luộc, 1 ly nước ép trái cây            1 bát cơm gạo lứt với thịt gà nướng, rau xanh                      1 bát cá hồi nướng với khoai lang, rau củ                       1 thanh năng lượng, 1 quả chuối                        2.700
+Thứ 3               1 tô phở bò, 1 quả cam                                                                    1 bát cơm gạo lứt với thịt bò xào rau, 1 ly sữa chua              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 hộp sữa chua Hy Lạp, 1 nắm hạt hạnh nhân        2.600
+Thứ 4               1 bát cháo yến mạch với thịt gà băm, 1 quả táo                                            1 bát cơm gạo lứt với cá hồi nướng, rau củ                              1 bát mì ống với sốt cà chua, rau xanh                       1 ly sinh tố trái cây, 1 thanh protein bar        2.800
+Thứ 5               1 bát bánh mì sandwich với trứng, thịt nguội, rau xanh, 1 ly nước cam                    1 bát cơm gạo lứt với thịt bò xào nấm, 1 ly sữa đậu nành              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 quả bơ, 1 nắm hạt chia                                2.700
+Thứ 6               1 bát cháo yến mạch với sữa và trái cây, 1 quả trứng luộc, 1 ly nước ép trái cây            1 bát cơm gạo lứt với cá hồi nướng, rau củ                              1 bát mì ống với sốt cà chua, rau xanh                       1 thanh năng lượng, 1 quả chuối                        2.700
+Thứ 7               1 tô phở bò, 1 quả cam                                                                    1 bát cơm gạo lứt với thịt bò xào rau, 1 ly sữa chua              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 hộp sữa chua Hy Lạp, 1 nắm hạt hạnh nhân        2.600
+Chủ Nhật       1 bát cháo yến mạch với thịt gà băm, 1 quả táo                                            1 bát cơm gạo lứt với cá hồi nướng, rau củ                              1 bát mì ống với sốt cà chua, rau xanh                       1 ly sinh tố trái cây, 1 thanh protein bar        2.800
+""","""Ngày	                     Bữa sáng	                                                Bữa trưa	                              Bữa tối	                                        Bữa phụ	                    Tổng năng lượng (kcal)
+Thứ Hai	      Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia	      Cơm gạo lứt với 100g thịt gà luộc	         150g cá hồi nướng với 200g rau củ luộc	            1 quả táo + 1 hộp sữa chua Hy Lạp	        2.500
+Thứ Ba	      Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia	              Cơm gạo lứt với 150g thịt bò luộc	         200g ức gà nướng với 300g rau củ luộc	            1 quả chuối + 1 muỗng canh bơ đậu phộng	2.800
+Thứ Tư	      Trứng luộc với bánh mì nguyên cám	                              Cơm gạo lứt với 200g cá ngừ sốt cà chua	 250g thịt lợn nạc kho tiêu với 400g rau củ luộc    1 cốc sữa ít béo	                        2.600
+Thứ Năm	      Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia      Cơm gạo lứt với 100g tôm luộc	         150g cá hồi nướng với 200g rau củ                  1 quả táo + 1 hộp sữa chua Hy Lạp	        2.700
+Thứ Sáu	      Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia	              Cơm gạo lứt với 150g thịt bò luộc	         200g ức gà nướng với 300g rau củ luộc	            1 quả chuối + 1 muỗng canh bơ đậu phộng	2.900
+Thứ Bảy	      Trứng luộc với bánh mì nguyên cám	                              Cơm gạo lứt với 200g cá ngừ sốt cà chua	 250g thịt lợn nạc kho tiêu với 400g rau củ luộc    1 cốc sữa ít béo	                        2.700
+Chủ Nhật      Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia	      Cơm gạo lứt với 100g tôm luộc	         150g cá hồi nướng với 200g rau củ luộc	            1 quả táo + 1 hộp sữa chua Hy Lạp	        2.800
+""","Thứ 2:
+
+Buổi sáng:
+Khởi động: 10 phút
+Sức mạnh:
+Nâng tạ đòn: 3 hiệp x 5-8 lần, tăng dần trọng lượng theo tuần
+Nâng tạ tay: 3 hiệp x 10-12 lần, tăng dần trọng lượng theo tuần
+Kéo xà đơn: 3 hiệp x tối đa số lần
+Gập bụng: 3 hiệp x tối đa số lần
+Kỹ thuật:
+Tập động tác RSCC và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+Thư giãn: 10 phút
+
+Thứ 3:
+
+Buổi sáng:
+Khởi động: 10 phút
+Sức bền:
+Chạy bộ: 30-60 phút, tăng dần tốc độ và quãng đường theo tuần
+Bơi lội: 30-60 phút, tăng dần thời gian bơi
+Thư giãn: 10 phút
+
+Thứ 4:
+
+Buổi sáng:
+Khởi động: 10 phút
+Sức mạnh:
+Nâng tạ đòn: 3 hiệp x 5-8 lần, tăng dần trọng lượng theo tuần
+Nâng tạ tay: 3 hiệp x 10-12 lần, tăng dần trọng lượng theo tuần
+Kéo xà đơn: 3 hiệp x tối đa số lần
+Gập bụng: 3 hiệp x tối đa số lần
+Kỹ thuật:
+Tập động tác trượt đà - ra sức cuối cùng và giữ thăng bằng không cầm tạ
+Thư giãn: 10 phút
+
+Thứ 5:
+
+Buổi sáng:
+Khởi động: 10 phút
+Sức bền:
+Chạy nước rút: 10 x 100m, tăng dần tốc độ
+Băng qua vật cản: 10 x 10m, tăng dần độ cao của vật cản
+Thư giãn: 10 phút
+
+Thứ 6:
+
+Buổi sáng:
+Khởi động: 10 phút
+Sức mạnh:
+Nâng tạ đòn: 3 hiệp x 3-5 lần, tăng dần trọng lượng theo tuần
+Nâng tạ tay: 3 hiệp x 6-8 lần, tăng dần trọng lượng theo tuần
+Kéo xà đơn: 3 hiệp x tối đa số lần
+Gập bụng: 3 hiệp x tối đa số lần
+Kỹ thuật:
+Tập động tác ra sức cuối cùng và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+Thư giãn: 10 phút
+
+Thứ 7:
+
+Nghỉ ngơi
+
+Chủ nhật:
+
+Buổi sáng:
+Khởi động: 10 phút
+Đẩy tạ: 3 hiệp x 3-5 lần, với trọng lượng tạ tối đa
+Thư giãn: 10 phút
+"
+31,Nam,200,100,50,7.4,60,24,12,40,"""Ngày                     Bữa sáng                                                                                        Bữa trưa                                                            Bữa tối                                                   Bữa phụ                           Tổng lượng calo
+Thứ 2               1 bát yến mạch với sữa và trái cây, 1 quả trứng luộc, 1 ly nước ép trái cây            1 bát cơm gạo lứt với thịt gà nướng, rau xanh                      1 bát cá hồi nướng với khoai lang, rau củ                       1 thanh năng lượng, 1 quả chuối                        2.700
+Thứ 3               1 tô phở bò, 1 quả cam                                                                    1 bát cơm gạo lứt với thịt bò xào rau, 1 ly sữa chua              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 hộp sữa chua Hy Lạp, 1 nắm hạt hạnh nhân        2.600
+Thứ 4               1 bát cháo yến mạch với thịt gà băm, 1 quả táo                                            1 bát cơm gạo lứt với cá hồi nướng, rau củ                              1 bát mì ống với sốt cà chua, rau xanh                       1 ly sinh tố trái cây, 1 thanh protein bar        2.800
+Thứ 5               1 bát bánh mì sandwich với trứng, thịt nguội, rau xanh, 1 ly nước cam                    1 bát cơm gạo lứt với thịt bò xào nấm, 1 ly sữa đậu nành              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 quả bơ, 1 nắm hạt chia                                2.700
+Thứ 6               1 bát cháo yến mạch với sữa và trái cây, 1 quả trứng luộc, 1 ly nước ép trái cây            1 bát cơm gạo lứt với cá hồi nướng, rau củ                              1 bát mì ống với sốt cà chua, rau xanh                       1 thanh năng lượng, 1 quả chuối                        2.700
+Thứ 7               1 tô phở bò, 1 quả cam                                                                    1 bát cơm gạo lứt với thịt bò xào rau, 1 ly sữa chua              1 bát cơm gạo lứt với đậu phụ sốt cà chua, rau củ               1 hộp sữa chua Hy Lạp, 1 nắm hạt hạnh nhân        2.600
+Chủ Nhật       1 bát cháo yến mạch với thịt gà băm, 1 quả táo                                            1 bát cơm gạo lứt với cá hồi nướng, rau củ                              1 bát mì ống với sốt cà chua, rau xanh                       1 ly sinh tố trái cây, 1 thanh protein bar        2.800
+""","""Ngày                                                   Bữa sáng                              Bữa trưa                                                       Bữa tối                         Bữa phụ         
+Thứ hai         1 bát bún bò Huế + 1 quả chuối                                 1 chén cơm + 70g thịt bò + 70g rau củ                1 chén cơm + 70g cá hồi + 70g rau củ         1 hộp sữa chua + 1 quả táo                 3,100 kcal
+Thứ ba          2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối         1 chén cơm + 70g thịt gà + 70g rau củ                1 chén cơm + 70g tôm + 70g rau củ         1 ly sinh tố bơ + 1 nắm hạt hạnh nhân         3,400 kcal
+Thứ tư                 1 chén cháo yến mạch + 1 quả chuối                         1 chén cơm + 70g thịt heo + 70g rau củ                1 chén cơm + 70g cá ngừ + 70g rau củ         1 quả cam + 1 nắm đậu phộng                 3,100 kcal
+Thứ năm         2 quả trứng + 1 lát bánh mì nướng                         1 chén cơm + 70g thịt bò + 70g rau củ                1 chén cơm + 70g cá hồi + 70g rau củ         1 ly sữa đậu nành + 1 nắm hạt chia         3,400 kcal
+Thứ sáu         1 bát bún chả + 1 quả chuối                                 1 chén cơm + 70g thịt gà + 70g rau củ                1 chén cơm + 70g tôm + 70g rau củ         1 hộp sữa chua + 1 quả táo              3,100 kcal
+Thứ bảy         1 chén cháo yến mạch + 1 quả chuối                         1 chén cơm + 70g thịt heo + 70g rau củ                1 chén cơm + 70g cá ngừ + 70g rau củ         1 quả cam + 1 nắm đậu phộng                 3,100 kcal
+Chủ nhật         2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối         1 chén cơm + 70g thịt bò + 70g rau củ                1 chén cơm + 70g cá hồi + 70g rau củ         1 ly sinh tố bơ + 1 nắm hạt hạnh nhân         3,400 kcal
+""","Thứ 2: Sức mạnh
+
+Buổi sáng:
+Đẩy tạ: 3 hiệp x 5-8 lần lặp lại, tăng dần trọng lượng tạ theo từng hiệp
+Squat: 3 hiệp x 5-8 lần lặp lại, tăng dần trọng lượng tạ theo từng hiệp
+Deadlift: 3 hiệp x 5-8 lần lặp lại, tăng dần trọng lượng tạ theo từng hiệp
+
+Thứ 3: Kỹ thuật
+
+Buổi sáng:
+Khởi động: 10-15 phút, bao gồm các bài tập cardio, căng cơ và khởi động kỹ thuật
+Tập luyện kỹ thuật ném đẩy: Tập luyện các giai đoạn của kỹ thuật ném đẩy, bao gồm:
+Giai đoạn chuẩn bị
+Giai đoạn chạy đà
+Giai đoạn ra sức
+Giai đoạn giữ thăng bằng
+Thả lỏng: 10-15 phút, bao gồm các bài tập căng cơ
+
+Thứ 4: Sức bền
+
+Buổi sáng:
+Chạy: 30-60 phút, chạy với tốc độ vừa phải
+Kéo tạ: 3 hiệp x 10-15 lần lặp lại
+
+Thứ 5: Sức mạnh
+
+Buổi sáng:
+Đẩy tạ: 3 hiệp x 5-8 lần lặp lại, tăng dần trọng lượng tạ theo từng hiệp
+Squat: 3 hiệp x 5-8 lần lặp lại, tăng dần trọng lượng tạ theo từng hiệp
+Deadlift: 3 hiệp x 5-8 lần lặp lại, tăng dần trọng lượng tạ theo từng hiệp
+
+Thứ 6: Kỹ thuật
+
+Buổi sáng:
+Khởi động: 10-15 phút, bao gồm các bài tập cardio, căng cơ và khởi động kỹ thuật
+Tập luyện kỹ thuật ném đẩy: Tập luyện các giai đoạn của kỹ thuật ném đẩy, bao gồm:
+Giai đoạn chuẩn bị
+Giai đoạn chạy đà
+Giai đoạn ra sức
+Giai đoạn giữ thăng bằng
+Thả lỏng: 10-15 phút, bao gồm các bài tập căng cơ
+
+Thứ 7: Nghỉ ngơi
+
+Chủ nhật: Thi đấu hoặc thi đấu đối kháng
+"
+33,Nữ,175,75,37,10,47,19,9,32,"""Ngày 	                         Bữa sáng 					Bữa trưa 						Bữa tối 				Bữa phụ 	
+Thứ hai 	1 bát bún bò Huế + 1 quả chuối 	                        1 chén cơm + 100g thịt bò + 100g rau củ 	1 chén cơm + 100g cá hồi + 100g rau củ 	   1 hộp sữa chua + 1 quả táo 	                3,200 kcal
+Thứ ba 	        2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối 	1 chén cơm + 100g thịt gà + 100g rau củ 	1 chén cơm + 100g tôm + 100g rau củ 	   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân 	3,500 kcal
+Thứ tư 	        1 chén cháo yến mạch + 1 quả chuối 	                1 chén cơm + 100g thịt heo + 100g rau củ 	1 chén cơm + 100g cá ngừ + 100g rau củ 	   1 quả cam + 1 nắm đậu phộng 	                3,200 kcal
+Thứ năm 	2 quả trứng + 1 lát bánh mì nướng 	                1 chén cơm + 100g thịt bò + 100g rau củ 	1 chén cơm + 100g cá hồi + 100g rau củ 	   1 ly sữa đậu nành + 1 nắm hạt chia 	        3,500 kcal
+Thứ sáu 	1 bát bún chả + 1 quả chuối 	                        1 chén cơm + 100g thịt gà + 100g rau củ 	1 chén cơm + 100g tôm + 100g rau củ 	   1 hộp sữa chua + 1 quả táo 	                3,200 kcal
+Thứ bảy 	1 chén cháo yến mạch + 1 quả chuối 	                1 chén cơm + 100g thịt heo + 100g rau củ 	1 chén cơm + 100g cá ngừ + 100g rau củ 	   1 quả cam + 1 nắm đậu phộng 	                3,200 kcal
+Chủ nhật 	2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối 	1 chén cơm + 100g thịt bò + 100g rau củ 	1 chén cơm + 100g cá hồi + 100g rau củ 	   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân 	3,500 kcal
+""","""Ngày                                     Bữa sáng                                                                         Bữa trưa                                                                 Bữa tối                                                  Bữa phụ                   Tổng calo
+2                2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi                     100g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc                150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ            1 nắm hạt hạnh nhân, 1 quả chuối              2.500
+3                1 bát cháo yến mạch, 1/2 chén trái cây tươi                                     150g ức gà áp chảo, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ            1 hộp sữa chua ít béo, 1 quả táo              2.900
+4                1 bát bột yến mạch, 1/2 chén trái cây tươi                                     200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        150g cá ngừ đóng hộp, 1 chén cơm gạo lứt, 1 đĩa salad rau củ            1 nắm hạt chia, 1 quả cam                      2.700
+5                2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi                     150g tôm hấp, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc                200g thịt lợn nạc luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ            1 thanh protein bar, 1 quả kiwi              2.800
+6                1 bát cháo yến mạch, 1/2 chén trái cây tươi                                     150g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc                200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ            1 hộp sữa chua ít béo, 1 quả chuối              2.600
+7                2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi                     150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc                200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa salad rau củ            1 nắm hạt hạnh nhân, 1 quả táo              2.800
+Chủ nhật        2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối + 1 ly sữa đậu nành             1 chén cơm + 200g thịt bò + 200g rau củ                                1 chén cơm + 200g cá hồi + 200g rau củ                                    1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     3,000 kcal""","Thứ 2:
+
+Buổi sáng:
+Tập sức mạnh:
+Đẩy tạ (tạ lưng): 3 hiệp x 8-12 lần
+Kéo xà đơn: 3 hiệp x số lần tối đa
+Gánh tạ đòn (tạ vai hướng ném): 3 hiệp x 8-12 lần
+Tập kỹ thuật:
+Tập động tác chuẩn bị (RSCC)
+Tập động tác trượt đà
+Tập động tác ra sức cuối cùng
+
+Buổi chiều:
+Tập sức bền:
+Chạy 10 km
+
+Thứ 3:
+
+Buổi sáng:
+Tập sức mạnh:
+Gánh tạ đòn (tạ vai hướng ném): 3 hiệp x 8-12 lần
+Nâng tạ tay: 3 hiệp x 10-15 lần/bắp tay
+Đẩy tạ (tạ lưng): 3 hiệp x 10-15 lần
+Tập kỹ thuật:
+Tập toàn bộ kỹ thuật đẩy tạ với tạ nhẹ
+
+Buổi chiều:
+Nghỉ ngơi
+
+Thứ 4:
+
+Buổi sáng:
+Tập sức mạnh:
+Kéo xà đơn: 3 hiệp x số lần tối đa
+Gánh tạ đòn (tạ vai hướng ném): 3 hiệp x 8-12 lần
+Tập kỹ thuật:
+Tập động tác chuẩn bị (RSCC)
+Tập động tác trượt đà
+
+Buổi chiều:
+Tập sức bền:
+Chạy 8 km
+
+Thứ 5:
+
+Buổi sáng:
+Tập sức mạnh:
+Nâng tạ tay: 3 hiệp x 10-15 lần/bắp tay
+Đẩy tạ (tạ lưng): 3 hiệp x 10-15 lần
+Tập kỹ thuật:
+Tập toàn bộ kỹ thuật đẩy tạ với tạ nặng
+
+Buổi chiều:
+Nghỉ ngơi
+
+Thứ 6:
+
+Buổi sáng:
+Tập sức mạnh:
+Gánh tạ đòn (tạ vai hướng ném): 3 hiệp x 8-12 lần
+Kéo xà đơn: 3 hiệp x số lần tối đa
+Tập kỹ thuật:
+Tập động tác chuẩn bị (RSCC)
+Tập động tác ra sức cuối cùng
+
+Buổi chiều:
+Tập sức bền:
+Chạy 6 km
+
+Thứ 7:
+
+Buổi sáng:
+Tập sức mạnh:
+Nâng tạ tay: 3 hiệp x 10-15 lần/bắp tay
+Đẩy tạ (tạ lưng): 3 hiệp x 10-15 lần
+Tập kỹ thuật:
+Tập toàn bộ kỹ thuật đẩy tạ với tạ vừa
+
+Buổi chiều:
+Nghỉ ngơi
+
+Chủ nhật:
+
+Buổi sáng:
+Tập sức mạnh:
+Gánh tạ đòn (tạ vai hướng ném): 3 hiệp x 8-12 lần
+Kéo xà đơn: 3 hiệp x số lần tối đa
+Tập kỹ thuật:
+Tập động tác chuẩn bị (RSCC)
+Tập động tác trượt đà
+
+Buổi chiều:
+Thi đấu hoặc tập luyện bổ trợ
+"
+35,Nam,210,110,55,8.2,65,26,13,42,"""Ngày                         Bữa sáng                                                               Bữa trưa                                                            Bữa tối                                                           Bữa phụ                      Tổng calo
+2            2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi        100g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 nắm hạt hạnh nhân, 1 quả chuối        2.500
+3            1 bát cháo yến mạch, 1/2 chén trái cây tươi                                150g ức gà áp chảo, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 hộp sữa chua ít béo, 1 quả táo        2.900
+4            1 bát bột yến mạch, 1/2 chén trái cây tươi                                200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        150g cá ngừ đóng hộp, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 nắm hạt chia, 1 quả cam                2.700
+5            2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi        150g tôm hấp, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc                200g thịt lợn nạc luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 thanh protein bar, 1 quả kiwi        2.800
+6            1 bát cháo yến mạch, 1/2 chén trái cây tươi                                150g cá hồi nướng, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        200g đậu hũ chiên, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 hộp sữa chua ít béo, 1 quả chuối        2.600
+7            2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi        150g thịt gà luộc, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc        200g thịt bò nướng, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 nắm hạt hạnh nhân, 1 quả táo        2.800
+Chủ nhật    2 quả trứng luộc, 1/2 chén cơm gạo lứt, 1/2 chén trái cây tươi        150g tôm hấp, 1 chén cơm gạo lứt, 1 đĩa rau xanh luộc                200g thịt lợn nạc luộc, 1 chén cơm gạo lứt, 1 đĩa salad rau củ          1 thanh protein bar, 1 quả kiwi        2.800""","""Ngày	                     Bữa sáng	                                                Bữa trưa	                              Bữa tối	                                        Bữa phụ	                    Tổng năng lượng (kcal)
+Thứ Hai	      Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia	      Cơm gạo lứt với 100g thịt gà luộc	         150g cá hồi nướng với 200g rau củ luộc	            1 quả táo + 1 hộp sữa chua Hy Lạp	        2.500
+Thứ Ba	      Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia	              Cơm gạo lứt với 150g thịt bò luộc	         200g ức gà nướng với 300g rau củ luộc	            1 quả chuối + 1 muỗng canh bơ đậu phộng	2.800
+Thứ Tư	      Trứng luộc với bánh mì nguyên cám	                              Cơm gạo lứt với 200g cá ngừ sốt cà chua	 250g thịt lợn nạc kho tiêu với 400g rau củ luộc    1 cốc sữa ít béo	                        2.600
+Thứ Năm	      Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia      Cơm gạo lứt với 100g tôm luộc	         150g cá hồi nướng với 200g rau củ                  1 quả táo + 1 hộp sữa chua Hy Lạp	        2.700
+Thứ Sáu	      Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia	              Cơm gạo lứt với 150g thịt bò luộc	         200g ức gà nướng với 300g rau củ luộc	            1 quả chuối + 1 muỗng canh bơ đậu phộng	2.900
+Thứ Bảy	      Trứng luộc với bánh mì nguyên cám	                              Cơm gạo lứt với 200g cá ngừ sốt cà chua	 250g thịt lợn nạc kho tiêu với 400g rau củ luộc    1 cốc sữa ít béo	                        2.700
+Chủ Nhật      Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia	      Cơm gạo lứt với 100g tôm luộc	         150g cá hồi nướng với 200g rau củ luộc	            1 quả táo + 1 hộp sữa chua Hy Lạp	        2.800
+""","Thứ 2:
+Sáng:
+Chạy bộ 5km
+Bơi lội 30 phút
+Chiều:
+Tập tạ:
+Đẩy tạ lưng: 3 hiệp x 8-12 lần
+Kéo xà đơn: 3 hiệp x 8-12 lần
+Gánh tạ: 3 hiệp x 8-12 lần
+
+Thứ 3:
+Sáng:
+Kỹ thuật ném đẩy:
+Tập động tác tay không: 3 hiệp x 8-12 lần
+Tập động tác trượt đà: 3 hiệp x 8-12 lần
+Tập động tác ra sức cuối cùng: 3 hiệp x 8-12 lần
+Chiều:
+Tập tạ:
+Nâng tạ tay: 3 hiệp x 8-12 lần
+Ép ngực: 3 hiệp x 8-12 lần
+Curl tạ: 3 hiệp x 8-12 lần
+
+Thứ 4:
+Sáng:
+Chạy bộ 5km
+Bơi lội 30 phút
+Chiều:
+Tập tạ:
+Đẩy tạ vai hướng ném: 3 hiệp x 8-12 lần
+Kéo tạ đòn: 3 hiệp x 8-12 lần
+Gánh tạ chéo: 3 hiệp x 8-12 lần
+
+Thứ 5:
+Sáng:
+Kỹ thuật ném đẩy:
+Tập động tác tay không: 3 hiệp x 8-12 lần
+Tập động tác trượt đà: 3 hiệp x 8-12 lần
+Tập động tác ra sức cuối cùng: 3 hiệp x 8-12 lần
+Chiều:
+Tập tạ:
+Nâng tạ tay: 3 hiệp x 8-12 lần
+Ép ngực chéo: 3 hiệp x 8-12 lần
+Curl tạ ngược: 3 hiệp x 8-12 lần
+
+Thứ 6:
+Sáng:
+Chạy bộ 5km
+Bơi lội 30 phút
+Chiều:
+Nghỉ ngơi
+
+Thứ 7:
+Sáng:
+Kỹ thuật ném đẩy:
+Tập động tác tay không: 3 hiệp x 8-12 lần
+Tập động tác trượt đà: 3 hiệp x 8-12 lần
+Tập động tác ra sức cuối cùng: 3 hiệp x 8-12 lần
+Chiều:
+Tập tạ:
+Đẩy tạ lưng: 3 hiệp x 8-12 lần
+Kéo xà đơn: 3 hiệp x 8-12 lần
+Gánh tạ: 3 hiệp x 8-12 lần
+
+Chủ nhật:
+Sáng:
+Nghỉ ngơi
+Chiều:
+Thi đấu hoặc thi thử
+"
+37,Nữ,180,80,34,6.7,50,20,10,34,"""
+Ngày	                Bữa sáng	                                                                           Bữa trưa	                                                             Bữa tối	                                                  Bữa phụ	      Tổng lượng calo
+Thứ 2	        2 quả trứng luộc, 1 lát bánh mì nguyên cám, 1 cốc sữa chua ít béo, 1 quả chuối	      1 bát cơm gạo lứt, 100g thịt nạc, 1 đĩa rau xanh luộc, 1 quả cam	        1 tô súp gà, 100g cá hồi, 1 đĩa salad rau củ	           1 trái cây tươi, 1 hộp sữa chua	2.500
+Thứ 3	        1 bát cháo yến mạch, 1 quả trứng luộc, 1 cốc sữa hạt	                              2 bát cơm gạo lứt, 150g thịt gà, 1 đĩa rau xanh luộc	                1 tô canh cua, 100g tôm, 1 đĩa salad rau củ	           1 thanh granola, 1 cốc sữa tươi	2.700
+Thứ 4	        1 bát hủ tiếu khô, 1 quả trứng luộc, 1 cốc nước cam	                              1 bát cơm gạo lứt, 100g thịt bò, 1 đĩa rau xanh xào	                1 tô phở bò, 1 bát canh rau	                           1 hũ sữa chua Hy Lạp, 1 quả táo	2.800
+Thứ 5	        1 bát bánh mì sandwich thịt nguội, 1 quả chuối, 1 cốc sữa tươi	                      1 bát cơm gạo lứt, 150g cá ngừ, 1 đĩa rau xanh luộc	                1 tô canh xương, 100g thịt lợn nạc, 1 đĩa salad rau củ	   1 hộp sữa chua phô mai, 1 quả kiwi	2.900
+Thứ 6	        1 bát cháo yến mạch, 1 quả trứng luộc, 1 cốc sữa hạt	                              2 bát cơm gạo lứt, 100g thịt gà, 1 đĩa rau xanh xào	                1 tô bún ốc, 1 bát canh rau	                           1 thanh granola, 1 cốc sữa tươi	2.600
+Thứ 7	        1 bát phở bò, 1 quả chuối, 1 cốc nước cam	                                      1 bát cơm gạo lứt, 150g cá hồi, 1 đĩa rau xanh luộc	                1 tô canh cua, 100g tôm, 1 đĩa salad rau củ	           1 hũ sữa chua Hy Lạp, 1 quả táo	2.700
+Chủ nhật	1 bát bánh mì sandwich trứng, 1 quả chuối, 1 cốc sữa tươi	                      2 bát cơm gạo lứt, 100g thịt bò, 1 đĩa rau xanh luộc	                1 tô bún chả, 1 bát canh rau	                           1 hộp sữa chua phô mai, 1 quả kiwi	2.800""","""Ngày           Bữa sáng                                                               Bữa trưa                                    Bữa tối                                     Bữa phụ                                     Tổng năng lượng (kcal)
+Thứ Hai    Sữa chua Hy Lạp với 1 quả chuối và 1 muỗng canh hạt chia     Cơm gạo lứt với 100g thịt gà luộc         150g cá hồi nướng với 200g rau củ luộc              1 quả táo + 1 hộp sữa chua Hy Lạp                            2.500
+Thứ Ba     Yến mạch với 1 quả bơ và 1 muỗng canh hạt chia               Cơm gạo lứt với 150g thịt bò luộc         200g ức gà nướng với 300g rau củ luộc               1 quả chuối + 1 muỗng canh bơ đậu phộng                      2.800
+Thứ Tư     Trứng luộc với bánh mì nguyên cám                            Cơm gạo lứt với 200g cá ngừ sốt cà chua   250g thịt lợn nạc kho tiêu với 400g rau củ luộc     1 cốc sữa ít béo                                             2.600
+Thứ Năm    Sữa chua Hy Lạp với 1 quả dâu tây và 1 muỗng canh hạt chia   Cơm gạo lứt với 100g tôm luộc             150g cá hồi nướng với 200g rau củ luộc              1 quả táo + 1 hộp sữa chua Hy Lạp                            2.700
+Thứ Sáu    Yến mạch với 1 quả kiwi và 1 muỗng canh hạt chia             Cơm gạo lứt với 150g thịt bò luộc         200g ức gà nướng với 300g rau củ luộc               1 quả chuối + 1 muỗng canh bơ đậu phộng                      2.900
+Thứ Bảy    Trứng luộc với bánh mì nguyên cám                            Cơm gạo lứt với 200g cá ngừ sốt cà chua   250g thịt lợn nạc kho tiêu với 400g rau củ luộc     1 cốc sữa ít béo                                             2.700
+Chủ Nhật   Sữa chua Hy Lạp với 1 quả nho và 1 muỗng canh hạt chia       Cơm gạo lứt với 100g tôm luộc             150g cá hồi nướng với 200g rau củ luộc              1 quả táo + 1 hộp sữa chua Hy Lạp                            2.800
+""","Thứ 2:
+Sáng: Khởi động 10 phút
+Tập sức mạnh:
+Nâng tạ đòn: 3 hiệp x 8-12 lần
+Kéo xà đơn: 3 hiệp x tối đa lần
+Barbell row: 3 hiệp x 8-12 lần
+Chiều: Tập kỹ thuật:
+Thực hành chạy đà và ra sức cuối cùng
+Tập ném tạ với tạ nhẹ
+Tối: Thư giãn 30 phút
+
+Thứ 3:
+Sáng: Khởi động 10 phút
+Tập sức mạnh:
+Bench press: 3 hiệp x 8-12 lần
+Military press: 3 hiệp x 8-12 lần
+Dumbbell row: 3 hiệp x 8-12 lần
+Chiều: Tập sức bền:
+Chạy 10km
+Tối: Thư giãn 30 phút
+
+Thứ 4:
+Sáng: Khởi động 10 phút
+Tập sức mạnh:
+Deadlift: 3 hiệp x 5-8 lần
+Lunge: 3 hiệp x 8-12 lần mỗi chân
+Calf raise: 3 hiệp x 15-20 lần
+Chiều: Tập kỹ thuật:
+Thực hành chạy đà và ra sức cuối cùng
+Tập ném tạ với tạ nặng
+Tối: Thư giãn 30 phút
+
+Thứ 5:
+Sáng: Khởi động 10 phút
+Tập sức mạnh:
+Barbell curl: 3 hiệp x 8-12 lần
+Hammer curl: 3 hiệp x 8-12 lần
+Triceps pushdown: 3 hiệp x 8-12 lần
+Chiều: Tập phục hồi:
+Bơi lội: 30 phút
+Tối: Thư giãn 30 phút
+
+Thứ 6:
+Sáng: Khởi động 10 phút
+Tập kỹ thuật:
+Thực hành chạy đà và ra sức cuối cùng
+Tập ném tạ với tạ vừa
+Chiều: Nghỉ ngơi
+
+Thứ 7:
+Sáng: Khởi động 10 phút
+Tập sức mạnh:
+Bench press: 3 hiệp x 5-8 lần
+Military press: 3 hiệp x 5-8 lần
+Dumbbell row: 3 hiệp x 5-8 lần
+Chiều: Tập kỹ thuật:
+Thực hành chạy đà và ra sức cuối cùng
+Tập ném tạ với tạ nặng
+Tối: Thư giãn 30 phút
+
+Chủ nhật:
+Nghỉ ngơi
+"
+39,Nam,220,120,60,8.9,70,28,14,44,"Ngày      Bữa sáng                                                             Bữa trưa                               Bữa tối                                Bữa phụ                                Tổng kcal
+Thứ hai   2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối      1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sinh tố bơ + 1 nắm hạt hạnh nhân       2,700 kcal
+Thứ ba    1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 quả cam + 1 nắm đậu phộng                 3,000 kcal
+Thứ tư    2 quả trứng + 1 lát bánh mì nướng                       1 chén cơm + 100g thịt heo + 100g rau củ    1 chén cơm + 100g cá ngừ + 100g rau củ    1 ly sữa đậu nành + 1 nắm hạt chia          2,700 kcal
+Thứ năm   1 bát bún bò Huế + 1 quả chuối                          1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 hộp sữa chua + 1 quả táo                  3,000 kcal
+Thứ sáu   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối      1 chén cơm + 100g thịt gà + 100g rau củ     1 chén cơm + 100g tôm + 100g rau củ       1 ly sinh tố bơ + 1 nắm hạt hạnh nhân       2,900 kcal
+Thứ bảy   1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ    1 chén cơm + 100g cá ngừ + 100g rau củ    1 quả cam + 1 nắm đậu phộng                 2,800 kcal
+Chủ nhật  2 quả trứng + 1 lát bánh mì nướng                       1 chén cơm + 100g thịt bò + 100g rau củ     1 chén cơm + 100g cá hồi + 100g rau củ    1 ly sữa đậu nành + 1 nắm hạt chia          3,000 kcal
+","Thứ  Bữa Sáng                                            Bữa Trưa                                Bữa Tối                                                  Bữa Phụ                       Tổng Kcal
+Hai  Bánh mì nguyên hạt, trứng gà, hoa quả          Gà nướng, 2 bát cơm nâu, rau xanh     Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ              Hạt hạt và quả khô                 3300
+Ba   Sữa hạ chất béo, bánh mì nguyên hạt, chuối     Salad thịt gà, 2 bát cơm quinoa       Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh          Yaourt, quả dứa                    3400
+Tư   Oatmeal, hạt lanh, quả mâm xôi                 Bún riêu chay, trái cây               Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ         Bơ, hạt hạt, chuối                 3200
+Năm  Sandwich cá ngừ, cà chua, hành tây             Gỏi cà chua, tôm, 2 bát cơm nâu       Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh   Hạt lanh, quả táo                  3300
+Sáu  Bánh mì nguyên hạt, bơ hạt, trái cây           Cơm cuộn cá ngừ, rau sống             Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh          Yaourt, quả kiwi                   3400
+Bảy  Bánh quy hạt lựu, sữa hạ chất béo, trái cây    Bún bò Huế chay, bánh mì nguyên hạt   Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh              Hạt hạt và quả khô                 3500
+CN   Omelette, bánh mì nguyên hạt, chuối            Salad hải sản, 2 bát cơm nâu          Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh     Yaourt, hạt lanh, quả dứa          3450","Thứ 2
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức mạnh:
+Gánh tạ đòn: 3 hiệp, 8-12 lần/hiệp
+Nâng tạ tay: 3 hiệp, 8-12 lần/hiệp
+Kéo xà đơn: 3 hiệp, tối đa lần
+Kỹ thuật:
+Tập động tác RSCC và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+
+Thứ 3
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức bền:
+Chạy nước rút 60m x 10 lần
+Chạy bền 10km
+Kỹ thuật:
+Tập động tác trượt đà - ra sức cuối cùng và giữ thăng bằng không cầm tạ
+
+Thứ 4
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức mạnh:
+Tập tạ đẩy ngực: 3 hiệp, 8-12 lần/hiệp
+Tập tạ đẩy vai: 3 hiệp, 8-12 lần/hiệp
+Tập tạ móc: 3 hiệp, 8-12 lần/hiệp
+Kỹ thuật:
+Tập động tác ra sức cuối cùng và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+
+Thứ 5
+Nghỉ ngơi
+
+Thứ 6
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức mạnh:
+Tập tạ tập cơ chân: squat, lunges, calf raise,...
+Kỹ thuật:
+Tập động tác trượt đà - ra sức cuối cùng và giữ thăng bằng không cầm tạ
+
+Thứ 7
+Sáng:
+Khởi động, chạy bộ 5km, căng cơ
+Chiều:
+Sức bền:
+Chạy nước rút 60m x 10 lần
+Chạy bền 10km
+Kỹ thuật:
+Tập động tác ra sức cuối cùng và giữ thăng bằng tay có cầm tạ ngoài và trong vòng ném
+
+Chủ nhật
+Nghỉ ngơi
+"
