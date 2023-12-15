@@ -1,0 +1,1396 @@
+﻿Cự li,Tuổi,Giới tính,Chiều cao,Cân nặng,Khối lượng cơ bắp,Lượng mỡ,Số đo mông,Số đo đùi,Vận tốc xuất phát,Vận tốc nước rút,Dinh dưỡng tập luyện,Dinh dưỡng thi đấu,Lịch tập luyện
+100,25,Nam,170,65,30.5,6,85,55,7.2,10,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"1,500",22,Nữ,160,55,29,7,80,50,6.5,9.2,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"10,000",27,Nam,175,70,32,7.5,90,60,7.4,"9 ,4","Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"1,500",30,Nữ,165,60,29.2,8.1,80,50,8.1,9.5,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"5,000",28,Nam,170,65,28.8,8,85,55,8.3,9.1,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+800,26,Nữ,155,50,24,6.5,80,45,6,8.8,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"10,000",32,Nam,180,75,30,9,95,60,7.7,9,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"5,000",29,Nữ,165,65,27.2,7.3,85,55,8.4,9.3,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+"5,000",31,Nam,175,72,33,7.5,90,55,7.6,9.4,"Thứ   | Bữa Sáng                                                      | Bữa Trưa                                                                         | Bữa Tối                                           | Bữa Phụ                       | Tổng Kcal
+Hai   | Bánh mì nguyên hạt, trứng gà, hoa quả | Gà nướng, 2 bát cơm nâu, rau xanh                   | Cá hồi nướng, 2 bát cơm nâu, khoai lang, rau củ  | Hạt hạt và quả khô           | 3300
+Ba    | Sữa hạ chất béo, bánh mì nguyên hạt, chuối | Salad thịt gà, 2 bát cơm quinoa               | Bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, quả dứa               | 3400
+Tư    | Oatmeal, hạt lanh, quả mâm xôi         | Bún riêu chay, trái cây                            | Thịt cá ngừ, 2 bát cơm nâu, khoai lang nướng, rau củ | Bơ, hạt hạt, chuối            | 3200
+Năm   | Sandwich cá ngừ, cà chua, hành tây    | Gỏi cà chua, tôm, 2 bát cơm nâu                    | Thịt gà nướng, 2 bát cơm nâu, bánh mì nguyên hạt, rau xanh | Hạt lanh, quả táo           | 3300
+Sáu   | Bánh mì nguyên hạt, bơ hạt, trái cây | Cơm cuộn cá ngừ, rau sống                          | Gà nướng, 2 bát cơm nâu, khoai lang nướng, rau xanh    | Yaourt, quả kiwi             | 3400
+Bảy   | Bánh quy hạt lựu, sữa hạ chất béo, trái cây | Bún bò Huế chay, bánh mì nguyên hạt          | Salad thịt gà, 2 bát cơm nâu, cơm nâu, rau xanh         | Hạt hạt và quả khô         | 3500
+CN    | Omelette, bánh mì nguyên hạt, chuối   | Salad hải sản, 2 bát cơm nâu                       | Thịt bò xào rau củ, 2 bát cơm nâu, gạo hạt lựu, rau xanh | Yaourt, hạt lanh, quả dứa    | 3450
+","Ngày        Bữa sáng                                                                                  Bữa trưa                                                                                                    Bữa tối                                                Bữa phụ                               Tổng kcal
+Thứ hai     2 lát bánh mì sandwich + 2 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt bò + 100g rau củ             1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,700 kcal
+Thứ ba      1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 quả cam + 1 nắm đậu phộng              3,000 kcal
+Thứ tư      2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 ly sữa đậu nành + 1 nắm hạt chia      2,700 kcal
+Thứ năm     1 bát bún bò Huế + 1 quả chuối                           1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 hộp sữa chua + 1 quả táo               3,000 kcal
+Thứ sáu     2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối       1 chén cơm + 100g thịt gà + 100g rau củ              1 chén cơm + 100g tôm + 100g rau củ                   1 ly sinh tố bơ + 1 nắm hạt hạnh nhân     2,900 kcal
+Thứ bảy     1 chén cháo yến mạch + 1 quả chuối                      1 chén cơm + 100g thịt heo + 100g rau củ             1 chén cơm + 100g cá ngừ + 100g rau củ                1 quả cam + 1 nắm đậu phộng              2,800 kcal
+Chủ nhật    2 quả trứng + 1 lát bánh mì nướng                        1 chén cơm + 100g thịt bò + 100g rau củ              1 chén cơm + 100g cá hồi + 100g rau củ               1 ly sữa đậu nành + 1 nắm hạt chia      3,000 kcal
+","Ngày     Kỹ Thuật Chạy    Sức Mạnh                    Sức Bền
+-----------------------------------------------------------------
+Thứ 2    - Chạy kỹ thuật  - Squat: 4x8-10 reps        - Chạy Intervals: 8x100m
+            - Lunges: 3x12 reps                        - Burpees: 3x15 reps
+            - Plank: 3x1 minute                       - Skipping Rope: 3x5 min
+
+Thứ 3    - Chạy kỹ thuật  - Deadlift: 4x8-10 reps  - Tempo Run: 5x200m
+            - Leg Press: 3x12 reps                     - Leg Raises: 3x15 reps
+            - Medicine Ball Throws                    - Hill Sprints: 6x50m
+
+Thứ 4    - Chạy kỹ thuật  - Bench Press: 4x8-10 reps  - Chạy Long Run: 5km
+            - Push-ups: 3x15 reps                     - Jump Squats: 3x20 reps
+            - Tricep Dips: 3x12 reps                 - Plank Variations
+
+Thứ 5    - Chạy kỹ thuật  - Box Jumps: 4x10 reps    - Chạy Intervals: 10x80m
+            - Bulgarian Split Squats: 3x12 reps   - High Knees: 3x3 min
+            - Core Exercises                           - Skipping Rope: 3x5 min
+
+Thứ 6    - Chạy kỹ thuật  - Bent Over Rows: 4x8-10  - Tempo Run: 5x200m
+              reps                                           - Lat Pulldowns: 3x12 reps
+              - Plank Variations                        - Sprints: 6x50m
+              - Burpees: 3x15 reps
+
+Thứ 7    - Chạy kỹ thuật  - Squat Jumps: 4x10 reps  - Chạy Long Run: 7km
+              - Tricep Pushdowns: 3x12 reps       - Jump Squats: 3x20 reps
+              - High Knees: 3x3 min                   - Core Exercises
+
+Chủ Nhật - Chạy kỹ thuật  - Nghỉ Ngơi Hoặc Nhẹ Nhàng - Nghỉ Ngơi Hoặc Nhẹ Nhàng
+"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
