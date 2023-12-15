@@ -1,5 +1,5 @@
 ﻿age,walk_range,gender,height,weight,muscle_mass,body_fat,hip,thigh,nutri_train,nutri_compe
-25,20km,Nam,170 cm,65 kg,45 kg,15 kg,85 cm,55 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+25,20,Nam,170,65,45,15,85,55,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -16,7 +16,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-22,20km,Nữ,160 cm,55 kg,35 kg,18 kg,80 cm,50 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+22,20,Nữ,160,55,35,18,80,50,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -33,7 +33,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-27,50km,Nam,175 cm,70 kg,45 kg,20 kg,90 cm,60 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+27,50,Nam,175,70,45,20,90,60,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -50,7 +50,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-30,20km,Nữ,165 cm,60 kg,40 kg,20 kg,80 cm,45 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+30,20,Nữ,165,60,40,20,80,45,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -67,7 +67,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-28,50km,Nam,170 cm,65 kg,45 kg,20 kg,85 cm,53 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+28,50,Nam,170,65,45,20,85,53,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -84,7 +84,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-26,20km,Nữ,155 cm,50 kg,30 kg,18 kg,80 cm,47 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+26,20,Nữ,155,50,30,18,80,47,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -101,7 +101,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-32,50km,Nam,180 cm,75 kg,55 kg,25 kg,95 cm,60 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+32,50,Nam,180,75,55,25,95,60,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -118,7 +118,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-29,20km,Nữ,165 cm,65 kg,45 kg,20 kg,85 cm,55 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+29,20,Nữ,165,65,45,20,85,55,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
@@ -135,7 +135,7 @@ Thứ sáu  2 bát bún bò Huế + 1 quả chuối           2 chén cơm + 100
 Thứ bảy  1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
 Chủ nhật 2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt bò + 100g rau củ     2 chén cơm + 100g cá hồi + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 """
-31,20km,Nam,175 cm,72 kg,50 kg,22 kg,90 cm,55 cm,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
+31,20,Nam,175,72,50,22,90,55,"""Ngày     Bữa sáng                                   Bữa trưa                                        Bữa tối                                            Bữa phụ
 Thứ hai  2 bát phở gà + 1 quả chuối                2 chén cơm + 100g thịt bò + 100g rau củ        2 chén cơm + 100g cá hồi + 100g rau củ            1 hộp sữa chua + 1 quả táo
 Thứ ba   2 lát bánh mì sandwich + 1 quả trứng + 1 quả chuối  2 chén cơm + 100g thịt gà + 100g rau củ     2 chén cơm + 100g tôm + 100g rau củ                 1 ly sinh tố bơ + 1 nắm hạt hạnh nhân
 Thứ tư   1 chén cháo yến mạch + 1 quả chuối      2 chén cơm + 100g thịt heo + 100g rau củ       2 chén cơm + 100g cá ngừ + 100g rau củ              1 quả cam + 1 nắm đậu phộng
